@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Docs on My Blog</title>
+    <link>http://localhost:1313/blog/docs/</link>
+    <description>Recent content in Docs on My Blog</description>
+    <image>
+      <title>My Blog</title>
+      <url>http://localhost:1313/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Feb 2025 22:45:59 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/blog/docs/test/</link>
+      <pubDate>Wed, 05 Feb 2025 22:45:59 +0700</pubDate>
+      <guid>http://localhost:1313/blog/docs/test/</guid>
+      <description>&lt;h3 id=&#34;tes&#34;&gt;TES&lt;/h3&gt;
+&lt;p&gt;ini web saya&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contoh</title>
+      <link>http://localhost:1313/blog/docs/contoh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/docs/contoh/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Selamat Datang Di Blog Saya</title>
+      <link>http://localhost:1313/blog/docs/sambutan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/docs/sambutan/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Windows Terminal Dengan Oh-My-Posh</title>
+      <link>http://localhost:1313/blog/docs/terminal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/docs/terminal/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>
