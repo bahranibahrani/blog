@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Docs on My New Hugo Site</title>
-    <link>https://bahrani.github.io/docs/</link>
+    <link>https://bahrani.github.io/blog/docs/</link>
     <description>Recent content in Docs on My New Hugo Site</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Feb 2025 22:45:59 +0700</lastBuildDate>
-    <atom:link href="https://bahrani.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bahrani.github.io/blog/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://bahrani.github.io/docs/test/</link>
+      <link>https://bahrani.github.io/blog/docs/test/</link>
       <pubDate>Wed, 05 Feb 2025 22:45:59 +0700</pubDate>
-      <guid>https://bahrani.github.io/docs/test/</guid>
+      <guid>https://bahrani.github.io/blog/docs/test/</guid>
       <description>TES ini web saya</description>
     </item>
   </channel>
