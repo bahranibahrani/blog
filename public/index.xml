@@ -11,15 +11,8 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Feb 2025 22:45:59 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/docs/test/</link>
-      <pubDate>Wed, 05 Feb 2025 22:45:59 +0700</pubDate>
-      <guid>http://localhost:1313/docs/test/</guid>
-      <description>TES ini web saya</description>
-    </item>
     <item>
       <title>Contoh</title>
       <link>http://localhost:1313/docs/contoh/</link>
