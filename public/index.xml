@@ -11,27 +11,12 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Contoh</title>
-      <link>http://localhost:1313/docs/contoh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/contoh/</guid>
-      <description>Desc Text.</description>
-    </item>
     <item>
       <title>Selamat Datang Di Blog Saya</title>
       <link>http://localhost:1313/docs/sambutan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/docs/sambutan/</guid>
-      <description>Desc Text.</description>
-    </item>
-    <item>
-      <title>Windows Terminal Dengan Oh-My-Posh</title>
-      <link>http://localhost:1313/docs/terminal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/terminal/</guid>
       <description>Desc Text.</description>
     </item>
   </channel>

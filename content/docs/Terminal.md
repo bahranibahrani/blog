@@ -1,10 +1,9 @@
 ---
 title: "Windows Terminal Dengan Oh-My-Posh"
-draft: false
+draft: true
 tags: []
 categories: []
 showToc: true
-draft: false
 hidemeta: false
 comments: false
 description: "Desc Text."

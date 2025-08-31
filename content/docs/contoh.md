@@ -1,10 +1,9 @@
 ---
-title: "Contoh"
-draft: false
+title: "Contoh Sajas"
+draft: true
 tags: []
 categories: []
 showToc: true
-draft: false
 hidemeta: false
 comments: false
 description: "Desc Text."
@@ -13,7 +12,7 @@ disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: true
-searchHidden: false
+searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
@@ -34,6 +33,7 @@ cover:
 
 # Dillinger
 ## _The Last Markdown Editor, Ever_
+
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 ![](https://www.greenheirloom.in/cdn/shop/products/Bharani2_1024x1024@2x.jpg?v=1608273224)]
@@ -71,6 +71,7 @@ for Markdown's syntax, type some text into the left window and
 watch the results in the right.
 
 ## Tech
+ ![Alt text for your image](/img/1.png)
 
 Dillinger uses a number of open source projects to work properly:
 
