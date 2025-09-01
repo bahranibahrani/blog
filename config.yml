@@ -10,9 +10,9 @@ title: My Blog
 theme: PaperMod
 
 enableRobotsTXT: true
-buildDrafts: false
-buildFuture: false
-buildExpired: false
+#buildDrafts: false
+#buildFuture: false
+#buildExpired: false
 
 
 minify:

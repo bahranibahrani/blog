@@ -1,0 +1,3 @@
+baseURL: "http://localhost:1313/"
+
+# hugo server -D --config config.yml,config.development.yml

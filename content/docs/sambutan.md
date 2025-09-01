@@ -18,7 +18,7 @@ canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
-hideSummary: true
+hideSummary: false
 searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
