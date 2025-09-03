@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Docs on My Blog</title>
-    <link>https://blog.bahrani.my.id/docs/</link>
-    <description>Recent content in Docs on My Blog</description>
+    <title>Tutorial on My Blog</title>
+    <link>https://blog.bahrani.my.id/tags/tutorial/</link>
+    <description>Recent content in Tutorial on My Blog</description>
     <image>
       <title>My Blog</title>
       <url>https://blog.bahrani.my.id/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 03 Sep 2025 10:46:27 +0700</lastBuildDate>
-    <atom:link href="https://blog.bahrani.my.id/docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.bahrani.my.id/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Self-Hosting Made Easy: Konfigurasi Home Server Menggunakan Domain Cloudflare</title>
       <link>https://blog.bahrani.my.id/docs/catatan/self-hosting-cloudflare/</link>
@@ -20,13 +20,6 @@
       <guid>https://blog.bahrani.my.id/docs/catatan/self-hosting-cloudflare/</guid>
       <description>Pendahuluan Self-hosting menjadi semakin populer bagi para penggemar teknologi yang ingin memiliki kontrol penuh atas data dan aplikasi mereka. Dengan self-hosting, Anda bisa menjalankan berbagai layanan, mulai dari situs web pribadi, cloud storage, hingga media server, langsung dari perangkat keras di rumah Anda. Namun, salah satu tantangan umum adalah mengekspos server rumah Anda ke internet dengan aman dan tanpa IP statis.
 Di sinilah Cloudflare Tunnel datang untuk menyelamatkan. Cloudflare Tunnel (sebelumnya dikenal sebagai Argo Tunnel) memungkinkan Anda menghubungkan server Anda ke jaringan Cloudflare tanpa harus membuka port pada router atau memiliki alamat IP publik yang statis.</description>
-    </item>
-    <item>
-      <title>Selamat Datang Di Blog Saya</title>
-      <link>https://blog.bahrani.my.id/docs/sambutan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.bahrani.my.id/docs/sambutan/</guid>
-      <description>Desc Text.</description>
     </item>
   </channel>
 </rss>

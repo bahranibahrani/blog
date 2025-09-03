@@ -11,8 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 10:46:27 +0700</lastBuildDate>
     <atom:link href="https://blog.bahrani.my.id/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Self-Hosting Made Easy: Konfigurasi Home Server Menggunakan Domain Cloudflare</title>
+      <link>https://blog.bahrani.my.id/docs/catatan/self-hosting-cloudflare/</link>
+      <pubDate>Wed, 03 Sep 2025 10:46:27 +0700</pubDate>
+      <guid>https://blog.bahrani.my.id/docs/catatan/self-hosting-cloudflare/</guid>
+      <description>Pendahuluan Self-hosting menjadi semakin populer bagi para penggemar teknologi yang ingin memiliki kontrol penuh atas data dan aplikasi mereka. Dengan self-hosting, Anda bisa menjalankan berbagai layanan, mulai dari situs web pribadi, cloud storage, hingga media server, langsung dari perangkat keras di rumah Anda. Namun, salah satu tantangan umum adalah mengekspos server rumah Anda ke internet dengan aman dan tanpa IP statis.
+Di sinilah Cloudflare Tunnel datang untuk menyelamatkan. Cloudflare Tunnel (sebelumnya dikenal sebagai Argo Tunnel) memungkinkan Anda menghubungkan server Anda ke jaringan Cloudflare tanpa harus membuka port pada router atau memiliki alamat IP publik yang statis.</description>
+    </item>
     <item>
       <title>Selamat Datang Di Blog Saya</title>
       <link>https://blog.bahrani.my.id/docs/sambutan/</link>

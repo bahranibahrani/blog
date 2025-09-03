@@ -2,18 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.bahrani.my.id/tags/cloudflare/</loc>
+    <lastmod>2025-09-03T10:46:27+07:00</lastmod>
+  </url><url>
     <loc>https://blog.bahrani.my.id/docs/</loc>
-    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-03T10:46:27+07:00</lastmod>
   </url><url>
     <loc>https://blog.bahrani.my.id/</loc>
-    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-03T10:46:27+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.bahrani.my.id/docs/catatan/self-hosting-cloudflare/</loc>
+    <lastmod>2025-09-03T10:46:27+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.bahrani.my.id/tags/</loc>
+    <lastmod>2025-09-03T10:46:27+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.bahrani.my.id/tags/tutorial/</loc>
+    <lastmod>2025-09-03T10:46:27+07:00</lastmod>
   </url><url>
     <loc>https://blog.bahrani.my.id/categories/</loc>
+  </url><url>
+    <loc>https://blog.bahrani.my.id/categories/development/</loc>
   </url><url>
     <loc>https://blog.bahrani.my.id/search/</loc>
   </url><url>
     <loc>https://blog.bahrani.my.id/docs/sambutan/</loc>
-  </url><url>
-    <loc>https://blog.bahrani.my.id/tags/</loc>
   </url>
 </urlset>
