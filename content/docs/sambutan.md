@@ -4,8 +4,8 @@ title: "Selamat Datang Di Blog Saya"
 # weight: 1
 # aliases: ["/first"]
 # tags: ["first"]
-# categories:
-# - Development
+categories:
+    - Development
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true

@@ -12,7 +12,7 @@ disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: false
+searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
@@ -71,7 +71,7 @@ for Markdown's syntax, type some text into the left window and
 watch the results in the right.
 
 ## Tech
- ![Alt text for your image](/img/1.png)
+ ![Alt text for your image](/static/img/1.png)
 
 Dillinger uses a number of open source projects to work properly:
 

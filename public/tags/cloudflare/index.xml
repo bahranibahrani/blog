@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cloudflare on My Blog</title>
+    <link>http://localhost:1313/tags/cloudflare/</link>
+    <description>Recent content in Cloudflare on My Blog</description>
+    <image>
+      <title>My Blog</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Sep 2025 10:46:27 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/cloudflare/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Self-Hosting Made Easy: Konfigurasi Home Server Menggunakan Domain Cloudflare</title>
+      <link>http://localhost:1313/docs/catatan/self-hosting-cloudflare/</link>
+      <pubDate>Wed, 03 Sep 2025 10:46:27 +0700</pubDate>
+      <guid>http://localhost:1313/docs/catatan/self-hosting-cloudflare/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://blog.bahrani.my.id/img/1.png&#34; alt=&#34;Image&#34;  /&gt;
+
+&lt;img loading=&#34;lazy&#34; src=&#34;https://www.greenheirloom.in/cdn/shop/products/Bharani2_1024x1024@2x.jpg?v=1608273224&#34; alt=&#34;&#34;  /&gt;
+]&lt;/p&gt;
+&lt;h2 id=&#34;pendahuluan&#34;&gt;Pendahuluan&lt;/h2&gt;
+&lt;p&gt;Self-hosting menjadi semakin populer bagi para penggemar teknologi yang ingin memiliki kontrol penuh atas data dan aplikasi mereka. Dengan self-hosting, Anda bisa menjalankan berbagai layanan, mulai dari situs web pribadi, cloud storage, hingga media server, langsung dari perangkat keras di rumah Anda. Namun, salah satu tantangan umum adalah mengekspos server rumah Anda ke internet dengan aman dan tanpa IP statis.&lt;/p&gt;
+&lt;p&gt;Di sinilah Cloudflare Tunnel datang untuk menyelamatkan. Cloudflare Tunnel (sebelumnya dikenal sebagai Argo Tunnel) memungkinkan Anda menghubungkan server Anda ke jaringan Cloudflare tanpa harus membuka port pada router atau memiliki alamat IP publik yang statis. Ini menciptakan koneksi yang aman dan terenkripsi antara server Anda dan Cloudflare, melindungi Anda dari serangan langsung.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
