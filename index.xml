@@ -11,15 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Sep 2025 10:46:27 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.bahrani.my.id/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Self-Hosting Made Easy: Konfigurasi Home Server Menggunakan Domain Cloudflare</title>
-      <link>https://blog.bahrani.my.id/docs/catatan/self-hosting-cloudflare/</link>
-      <pubDate>Wed, 03 Sep 2025 10:46:27 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/docs/catatan/self-hosting-cloudflare/</guid>
-      <description>Pendahuluan Self-hosting menjadi semakin populer bagi para penggemar teknologi yang ingin memiliki kontrol penuh atas data dan aplikasi mereka. Dengan self-hosting, Anda bisa menjalankan berbagai layanan, mulai dari situs web pribadi, cloud storage, hingga media server, langsung dari perangkat keras di rumah Anda. Namun, salah satu tantangan umum adalah mengekspos server rumah Anda ke internet dengan aman dan tanpa IP statis.
-Di sinilah Cloudflare Tunnel datang untuk menyelamatkan. Cloudflare Tunnel (sebelumnya dikenal sebagai Argo Tunnel) memungkinkan Anda menghubungkan server Anda ke jaringan Cloudflare tanpa harus membuka port pada router atau memiliki alamat IP publik yang statis.</description>
+      <title>Membangun Lab SSH Pribadi dengan Docker: Bahrani Labs</title>
+      <link>https://blog.bahrani.my.id/docs/catatan/membangun-lab-ssh-docker/</link>
+      <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.bahrani.my.id/docs/catatan/membangun-lab-ssh-docker/</guid>
+      <description>Sering kali kita membutuhkan sebuah lingkungan sandbox atau lab virtual yang ringan untuk eksperimen, development, atau sekadar mencoba perintah-perintah sistem. Menggunakan Virtual Machine (VM) penuh terkadang terasa berlebihan. Artikel ini akan memandu Anda membangun &amp;ldquo;Bahrani Labs&amp;rdquo;: sebuah lab berbasis kontainer Docker yang bisa diakses via SSH, lengkap dengan persistensi data dan konfigurasi siap pakai.
+Lab ini hadir dengan fitur esensial seperti akses SSH, user cisco dengan hak sudo, volume persisten untuk data Anda, healthcheck untuk memonitor layanan, kebijakan restart otomatis, dan zona waktu yang sudah disesuaikan untuk Indonesia (Asia/Jakarta).</description>
     </item>
     <item>
       <title>Selamat Datang Di Blog Saya</title>
