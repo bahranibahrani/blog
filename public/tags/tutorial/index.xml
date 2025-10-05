@@ -11,20 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Sep 2025 10:46:27 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Self-Hosting Made Easy: Konfigurasi Home Server Menggunakan Domain Cloudflare</title>
-      <link>http://localhost:1313/docs/catatan/self-hosting-cloudflare/</link>
-      <pubDate>Wed, 03 Sep 2025 10:46:27 +0700</pubDate>
-      <guid>http://localhost:1313/docs/catatan/self-hosting-cloudflare/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://blog.bahrani.my.id/img/1.png&#34; alt=&#34;Image&#34;  /&gt;
-
-&lt;img loading=&#34;lazy&#34; src=&#34;https://www.greenheirloom.in/cdn/shop/products/Bharani2_1024x1024@2x.jpg?v=1608273224&#34; alt=&#34;&#34;  /&gt;
-]&lt;/p&gt;
-&lt;h2 id=&#34;pendahuluan&#34;&gt;Pendahuluan&lt;/h2&gt;
-&lt;p&gt;Self-hosting menjadi semakin populer bagi para penggemar teknologi yang ingin memiliki kontrol penuh atas data dan aplikasi mereka. Dengan self-hosting, Anda bisa menjalankan berbagai layanan, mulai dari situs web pribadi, cloud storage, hingga media server, langsung dari perangkat keras di rumah Anda. Namun, salah satu tantangan umum adalah mengekspos server rumah Anda ke internet dengan aman dan tanpa IP statis.&lt;/p&gt;
-&lt;p&gt;Di sinilah Cloudflare Tunnel datang untuk menyelamatkan. Cloudflare Tunnel (sebelumnya dikenal sebagai Argo Tunnel) memungkinkan Anda menghubungkan server Anda ke jaringan Cloudflare tanpa harus membuka port pada router atau memiliki alamat IP publik yang statis. Ini menciptakan koneksi yang aman dan terenkripsi antara server Anda dan Cloudflare, melindungi Anda dari serangan langsung.&lt;/p&gt;</description>
+      <title>Membangun Lab SSH Pribadi dengan Docker: Bahrani Labs</title>
+      <link>http://localhost:1313/docs/catatan/membangun-lab-ssh-docker/</link>
+      <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/catatan/membangun-lab-ssh-docker/</guid>
+      <description>&lt;p&gt;Sering kali kita membutuhkan sebuah lingkungan &lt;em&gt;sandbox&lt;/em&gt; atau lab virtual yang ringan untuk eksperimen, development, atau sekadar mencoba perintah-perintah sistem. Menggunakan Virtual Machine (VM) penuh terkadang terasa berlebihan. Artikel ini akan memandu Anda membangun &amp;ldquo;Bahrani Labs&amp;rdquo;: sebuah lab berbasis kontainer Docker yang bisa diakses via SSH, lengkap dengan persistensi data dan konfigurasi siap pakai.&lt;/p&gt;
+&lt;p&gt;Lab ini hadir dengan fitur esensial seperti &lt;strong&gt;akses SSH&lt;/strong&gt;, user &lt;code&gt;cisco&lt;/code&gt; dengan hak &lt;strong&gt;sudo&lt;/strong&gt;, &lt;strong&gt;volume persisten&lt;/strong&gt; untuk data Anda, &lt;strong&gt;healthcheck&lt;/strong&gt; untuk memonitor layanan, kebijakan &lt;strong&gt;restart otomatis&lt;/strong&gt;, dan zona waktu yang sudah disesuaikan untuk Indonesia (&lt;code&gt;Asia/Jakarta&lt;/code&gt;).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

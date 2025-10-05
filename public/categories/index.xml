@@ -11,7 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 05 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Catatan</title>
+      <link>http://localhost:1313/categories/catatan/</link>
+      <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/catatan/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Development</title>
       <link>http://localhost:1313/categories/development/</link>

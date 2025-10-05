@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ssh on My Blog</title>
+    <link>http://localhost:1313/tags/ssh/</link>
+    <description>Recent content in Ssh on My Blog</description>
+    <image>
+      <title>My Blog</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ssh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Membangun Lab SSH Pribadi dengan Docker: Bahrani Labs</title>
+      <link>http://localhost:1313/docs/catatan/membangun-lab-ssh-docker/</link>
+      <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/catatan/membangun-lab-ssh-docker/</guid>
+      <description>&lt;p&gt;Sering kali kita membutuhkan sebuah lingkungan &lt;em&gt;sandbox&lt;/em&gt; atau lab virtual yang ringan untuk eksperimen, development, atau sekadar mencoba perintah-perintah sistem. Menggunakan Virtual Machine (VM) penuh terkadang terasa berlebihan. Artikel ini akan memandu Anda membangun &amp;ldquo;Bahrani Labs&amp;rdquo;: sebuah lab berbasis kontainer Docker yang bisa diakses via SSH, lengkap dengan persistensi data dan konfigurasi siap pakai.&lt;/p&gt;
+&lt;p&gt;Lab ini hadir dengan fitur esensial seperti &lt;strong&gt;akses SSH&lt;/strong&gt;, user &lt;code&gt;cisco&lt;/code&gt; dengan hak &lt;strong&gt;sudo&lt;/strong&gt;, &lt;strong&gt;volume persisten&lt;/strong&gt; untuk data Anda, &lt;strong&gt;healthcheck&lt;/strong&gt; untuk memonitor layanan, kebijakan &lt;strong&gt;restart otomatis&lt;/strong&gt;, dan zona waktu yang sudah disesuaikan untuk Indonesia (&lt;code&gt;Asia/Jakarta&lt;/code&gt;).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

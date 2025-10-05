@@ -1,7 +1,7 @@
 ---
 title: "Self-Hosting Made Easy: Konfigurasi Home Server Menggunakan Domain Cloudflare"
 date: 2025-09-03T10:46:27+07:00
-draft: false
+draft: true
 showToc: true
 searchHidden: false
 UseHugoToc: true
@@ -19,7 +19,7 @@ tags:
 ## Pendahuluan
 
 ![Image](/static/img/1.png)
-
+![images](/static/img/1.png)
 Self-hosting menjadi semakin populer bagi para penggemar teknologi yang ingin memiliki kontrol penuh atas data dan aplikasi mereka. Dengan self-hosting, Anda bisa menjalankan berbagai layanan, mulai dari situs web pribadi, cloud storage, hingga media server, langsung dari perangkat keras di rumah Anda. Namun, salah satu tantangan umum adalah mengekspos server rumah Anda ke internet dengan aman dan tanpa IP statis.
 
 Di sinilah Cloudflare Tunnel datang untuk menyelamatkan. Cloudflare Tunnel (sebelumnya dikenal sebagai Argo Tunnel) memungkinkan Anda menghubungkan server Anda ke jaringan Cloudflare tanpa harus membuka port pada router atau memiliki alamat IP publik yang statis. Ini menciptakan koneksi yang aman dan terenkripsi antara server Anda dan Cloudflare, melindungi Anda dari serangan langsung.
