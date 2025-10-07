@@ -11,8 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 12:00:00 +0700</lastBuildDate>
     <atom:link href="https://blog.bahrani.my.id/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proyek Visualisasi Jaringan CDP dengan Streamlit</title>
+      <link>https://blog.bahrani.my.id/docs/catatan/proyek-visualisasi-jaringan-cdp/</link>
+      <pubDate>Tue, 07 Oct 2025 12:00:00 +0700</pubDate>
+      <guid>https://blog.bahrani.my.id/docs/catatan/proyek-visualisasi-jaringan-cdp/</guid>
+      <description>Aplikasi web sederhana untuk memvisualisasikan topologi jaringan berdasarkan data dari Cisco Discovery Protocol (CDP) yang diekspor ke dalam format file Excel.
+Deskripsi Aplikasi ini menggunakan library Streamlit di Python untuk membuat aplikasi web interaktif. Ia akan membaca file .xlsx yang berisi data CDP (seperti nama perangkat, alamat IP, port yang terhubung, dll.), kemudian menggunakan library networkx dan matplotlib untuk membuat dan menampilkan gambar topologi jaringan.
+Fitur Membaca data perangkat jaringan dari file Excel.</description>
+    </item>
     <item>
       <title>Membangun Lab SSH Pribadi dengan Docker: Bahrani Labs</title>
       <link>https://blog.bahrani.my.id/docs/catatan/membangun-lab-ssh-docker/</link>
