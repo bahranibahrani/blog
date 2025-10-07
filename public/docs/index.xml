@@ -2,30 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Docs on My Blog</title>
-    <link>http://localhost:1313/docs/</link>
+    <link>http://localhost:49458/docs/</link>
     <description>Recent content in Docs on My Blog</description>
     <image>
       <title>My Blog</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:49458/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:49458/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Oct 2025 12:00:00 +0700</lastBuildDate>
+    <atom:link href="http://localhost:49458/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proyek Visualisasi Jaringan CDP dengan Streamlit</title>
+      <link>http://localhost:49458/docs/catatan/proyek-visualisasi-jaringan-cdp/</link>
+      <pubDate>Tue, 07 Oct 2025 12:00:00 +0700</pubDate>
+      <guid>http://localhost:49458/docs/catatan/proyek-visualisasi-jaringan-cdp/</guid>
+      <description>&lt;p&gt;Aplikasi web sederhana untuk memvisualisasikan topologi jaringan berdasarkan data dari Cisco Discovery Protocol (CDP) yang diekspor ke dalam format file Excel.&lt;/p&gt;
+&lt;h2 id=&#34;deskripsi&#34;&gt;Deskripsi&lt;/h2&gt;
+&lt;p&gt;Aplikasi ini menggunakan library &lt;strong&gt;Streamlit&lt;/strong&gt; di Python untuk membuat aplikasi web interaktif. Ia akan membaca file &lt;code&gt;.xlsx&lt;/code&gt; yang berisi data CDP (seperti nama perangkat, alamat IP, port yang terhubung, dll.), kemudian menggunakan library &lt;code&gt;networkx&lt;/code&gt; dan &lt;code&gt;matplotlib&lt;/code&gt; untuk membuat dan menampilkan gambar topologi jaringan.&lt;/p&gt;
+&lt;h2 id=&#34;fitur&#34;&gt;Fitur&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Membaca data perangkat jaringan dari file Excel.&lt;/li&gt;
+&lt;li&gt;Membangun model graf dari topologi jaringan.&lt;/li&gt;
+&lt;li&gt;Menampilkan visualisasi topologi jaringan melalui antarmuka web interaktif.&lt;/li&gt;
+&lt;li&gt;Menggunakan ikon SVG untuk merepresentasikan tipe perangkat yang berbeda (router, switch, dll).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;struktur-proyek&#34;&gt;Struktur Proyek&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;.
+├── app.py                # Logika utama aplikasi Streamlit
+├── data/
+│   └── cdp_neighbors.xlsx  # Contoh file data CDP
+└── img/                  # Ikon untuk perangkat jaringan
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;instalasi--penggunaan&#34;&gt;Instalasi &amp;amp; Penggunaan&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Instalasi library yang dibutuhkan:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Membangun Lab SSH Pribadi dengan Docker: Bahrani Labs</title>
-      <link>http://localhost:1313/docs/catatan/membangun-lab-ssh-docker/</link>
+      <link>http://localhost:49458/docs/catatan/membangun-lab-ssh-docker/</link>
       <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/catatan/membangun-lab-ssh-docker/</guid>
+      <guid>http://localhost:49458/docs/catatan/membangun-lab-ssh-docker/</guid>
       <description>&lt;p&gt;Sering kali kita membutuhkan sebuah lingkungan &lt;em&gt;sandbox&lt;/em&gt; atau lab virtual yang ringan untuk eksperimen, development, atau sekadar mencoba perintah-perintah sistem. Menggunakan Virtual Machine (VM) penuh terkadang terasa berlebihan. Artikel ini akan memandu Anda membangun &amp;ldquo;Bahrani Labs&amp;rdquo;: sebuah lab berbasis kontainer Docker yang bisa diakses via SSH, lengkap dengan persistensi data dan konfigurasi siap pakai.&lt;/p&gt;
 &lt;p&gt;Lab ini hadir dengan fitur esensial seperti &lt;strong&gt;akses SSH&lt;/strong&gt;, user &lt;code&gt;cisco&lt;/code&gt; dengan hak &lt;strong&gt;sudo&lt;/strong&gt;, &lt;strong&gt;volume persisten&lt;/strong&gt; untuk data Anda, &lt;strong&gt;healthcheck&lt;/strong&gt; untuk memonitor layanan, kebijakan &lt;strong&gt;restart otomatis&lt;/strong&gt;, dan zona waktu yang sudah disesuaikan untuk Indonesia (&lt;code&gt;Asia/Jakarta&lt;/code&gt;).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Selamat Datang Di Blog Saya</title>
-      <link>http://localhost:1313/docs/sambutan/</link>
+      <link>http://localhost:49458/docs/sambutan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/sambutan/</guid>
+      <guid>http://localhost:49458/docs/sambutan/</guid>
       <description>Desc Text.</description>
     </item>
   </channel>

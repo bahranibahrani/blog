@@ -2,50 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on My Blog</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:49458/tags/</link>
     <description>Recent content in Tags on My Blog</description>
     <image>
       <title>My Blog</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:49458/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:49458/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Oct 2025 12:00:00 +0700</lastBuildDate>
+    <atom:link href="http://localhost:49458/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Network</title>
+      <link>http://localhost:49458/tags/network/</link>
+      <pubDate>Tue, 07 Oct 2025 12:00:00 +0700</pubDate>
+      <guid>http://localhost:49458/tags/network/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://localhost:49458/tags/python/</link>
+      <pubDate>Tue, 07 Oct 2025 12:00:00 +0700</pubDate>
+      <guid>http://localhost:49458/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Streamlit</title>
+      <link>http://localhost:49458/tags/streamlit/</link>
+      <pubDate>Tue, 07 Oct 2025 12:00:00 +0700</pubDate>
+      <guid>http://localhost:49458/tags/streamlit/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Container</title>
-      <link>http://localhost:1313/tags/container/</link>
+      <link>http://localhost:49458/tags/container/</link>
       <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/container/</guid>
+      <guid>http://localhost:49458/tags/container/</guid>
       <description></description>
     </item>
     <item>
       <title>Devops</title>
-      <link>http://localhost:1313/tags/devops/</link>
+      <link>http://localhost:49458/tags/devops/</link>
       <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/devops/</guid>
+      <guid>http://localhost:49458/tags/devops/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker</title>
-      <link>http://localhost:1313/tags/docker/</link>
+      <link>http://localhost:49458/tags/docker/</link>
       <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/docker/</guid>
+      <guid>http://localhost:49458/tags/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>Ssh</title>
-      <link>http://localhost:1313/tags/ssh/</link>
+      <link>http://localhost:49458/tags/ssh/</link>
       <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ssh/</guid>
+      <guid>http://localhost:49458/tags/ssh/</guid>
       <description></description>
     </item>
     <item>
       <title>Tutorial</title>
-      <link>http://localhost:1313/tags/tutorial/</link>
+      <link>http://localhost:49458/tags/tutorial/</link>
       <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tutorial/</guid>
+      <guid>http://localhost:49458/tags/tutorial/</guid>
       <description></description>
     </item>
   </channel>

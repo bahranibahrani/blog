@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Network on My Blog</title>
+    <link>http://localhost:49458/tags/network/</link>
+    <description>Recent content in Network on My Blog</description>
+    <image>
+      <title>My Blog</title>
+      <url>http://localhost:49458/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:49458/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Oct 2025 12:00:00 +0700</lastBuildDate>
+    <atom:link href="http://localhost:49458/tags/network/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proyek Visualisasi Jaringan CDP dengan Streamlit</title>
+      <link>http://localhost:49458/docs/catatan/proyek-visualisasi-jaringan-cdp/</link>
+      <pubDate>Tue, 07 Oct 2025 12:00:00 +0700</pubDate>
+      <guid>http://localhost:49458/docs/catatan/proyek-visualisasi-jaringan-cdp/</guid>
+      <description>&lt;p&gt;Aplikasi web sederhana untuk memvisualisasikan topologi jaringan berdasarkan data dari Cisco Discovery Protocol (CDP) yang diekspor ke dalam format file Excel.&lt;/p&gt;
+&lt;h2 id=&#34;deskripsi&#34;&gt;Deskripsi&lt;/h2&gt;
+&lt;p&gt;Aplikasi ini menggunakan library &lt;strong&gt;Streamlit&lt;/strong&gt; di Python untuk membuat aplikasi web interaktif. Ia akan membaca file &lt;code&gt;.xlsx&lt;/code&gt; yang berisi data CDP (seperti nama perangkat, alamat IP, port yang terhubung, dll.), kemudian menggunakan library &lt;code&gt;networkx&lt;/code&gt; dan &lt;code&gt;matplotlib&lt;/code&gt; untuk membuat dan menampilkan gambar topologi jaringan.&lt;/p&gt;
+&lt;h2 id=&#34;fitur&#34;&gt;Fitur&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Membaca data perangkat jaringan dari file Excel.&lt;/li&gt;
+&lt;li&gt;Membangun model graf dari topologi jaringan.&lt;/li&gt;
+&lt;li&gt;Menampilkan visualisasi topologi jaringan melalui antarmuka web interaktif.&lt;/li&gt;
+&lt;li&gt;Menggunakan ikon SVG untuk merepresentasikan tipe perangkat yang berbeda (router, switch, dll).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;struktur-proyek&#34;&gt;Struktur Proyek&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;.
+├── app.py                # Logika utama aplikasi Streamlit
+├── data/
+│   └── cdp_neighbors.xlsx  # Contoh file data CDP
+└── img/                  # Ikon untuk perangkat jaringan
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;instalasi--penggunaan&#34;&gt;Instalasi &amp;amp; Penggunaan&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Instalasi library yang dibutuhkan:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
