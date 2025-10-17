@@ -2,16 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.bahrani.my.id/categories/catatan/</loc>
-    <lastmod>2025-10-07T12:00:00+07:00</lastmod>
-  </url><url>
     <loc>https://blog.bahrani.my.id/categories/</loc>
-    <lastmod>2025-10-07T12:00:00+07:00</lastmod>
+    <lastmod>2025-10-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.bahrani.my.id/docs/</loc>
-    <lastmod>2025-10-07T12:00:00+07:00</lastmod>
+    <lastmod>2025-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.bahrani.my.id/tags/git/</loc>
+    <lastmod>2025-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.bahrani.my.id/docs/catatan/github/</loc>
+    <lastmod>2025-10-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.bahrani.my.id/</loc>
+    <lastmod>2025-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.bahrani.my.id/categories/pribadi/</loc>
+    <lastmod>2025-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.bahrani.my.id/tags/</loc>
+    <lastmod>2025-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.bahrani.my.id/categories/catatan/</loc>
     <lastmod>2025-10-07T12:00:00+07:00</lastmod>
   </url><url>
     <loc>https://blog.bahrani.my.id/tags/network/</loc>
@@ -24,9 +36,6 @@
     <lastmod>2025-10-07T12:00:00+07:00</lastmod>
   </url><url>
     <loc>https://blog.bahrani.my.id/tags/streamlit/</loc>
-    <lastmod>2025-10-07T12:00:00+07:00</lastmod>
-  </url><url>
-    <loc>https://blog.bahrani.my.id/tags/</loc>
     <lastmod>2025-10-07T12:00:00+07:00</lastmod>
   </url><url>
     <loc>https://blog.bahrani.my.id/tags/container/</loc>
