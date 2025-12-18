@@ -2,23 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hidup on My Blog</title>
-    <link>http://localhost:1313/tags/hidup/</link>
+    <link>https://blog.bahrani.my.id/tags/hidup/</link>
     <description>Recent content in Hidup on My Blog</description>
     <image>
       <title>My Blog</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://blog.bahrani.my.id/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.bahrani.my.id/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/hidup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.bahrani.my.id/tags/hidup/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pengalaman Pribadi Saya</title>
-      <link>http://localhost:1313/docs/pribadi/post-pribadi/</link>
-      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/pribadi/post-pribadi/</guid>
-      <description>&lt;p&gt;Ini adalah postingan tentang pengalaman pribadi saya. Saya akan berbagi beberapa cerita menarik di sini.&lt;/p&gt;</description>
+      <title>Rumus Excel</title>
+      <link>https://blog.bahrani.my.id/docs/pribadi/panduan_profesional_rumus_excel/</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.bahrani.my.id/docs/pribadi/panduan_profesional_rumus_excel/</guid>
+      <description>Panduan Profesional: Kombinasi Rumus Lanjutan Excel &amp;amp; Google Sheets Dokumen ini menyajikan kumpulan teknik dan kombinasi rumus tingkat lanjut yang dirancang untuk meningkatkan efisiensi, fleksibilitas, dan profesionalisme dalam analisis data menggunakan spreadsheet. Setiap bagian menjelaskan skenario bisnis, struktur rumus, dan contoh praktis.
+Bab 1: Teknik Pencarian (Lookup) Dinamis &amp;amp; Multi-Dimensi 1.1. Pencarian Dua Arah (Two-Way Lookup) Nama Kombinasi: INDEX + MATCH + MATCH Skenario Penggunaan: Ketika Anda perlu mengekstrak nilai dari sebuah tabel (matriks) di mana baik kriteria baris maupun kriteria kolom bersifat dinamis.</description>
     </item>
   </channel>
 </rss>

@@ -11,8 +11,23 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.bahrani.my.id/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Showcase: Network Automation Dashboard</title>
+      <link>https://blog.bahrani.my.id/docs/network-automation-platform/</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.bahrani.my.id/docs/network-automation-platform/</guid>
+      <description>Galeri fitur dan kapabilitas dari platform dashboard otomasi jaringan.</description>
+    </item>
+    <item>
+      <title>Rumus Excel</title>
+      <link>https://blog.bahrani.my.id/docs/pribadi/panduan_profesional_rumus_excel/</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.bahrani.my.id/docs/pribadi/panduan_profesional_rumus_excel/</guid>
+      <description>Panduan Profesional: Kombinasi Rumus Lanjutan Excel &amp;amp; Google Sheets Dokumen ini menyajikan kumpulan teknik dan kombinasi rumus tingkat lanjut yang dirancang untuk meningkatkan efisiensi, fleksibilitas, dan profesionalisme dalam analisis data menggunakan spreadsheet. Setiap bagian menjelaskan skenario bisnis, struktur rumus, dan contoh praktis.
+Bab 1: Teknik Pencarian (Lookup) Dinamis &amp;amp; Multi-Dimensi 1.1. Pencarian Dua Arah (Two-Way Lookup) Nama Kombinasi: INDEX + MATCH + MATCH Skenario Penggunaan: Ketika Anda perlu mengekstrak nilai dari sebuah tabel (matriks) di mana baik kriteria baris maupun kriteria kolom bersifat dinamis.</description>
+    </item>
     <item>
       <title>GIT CHEAT SHEET</title>
       <link>https://blog.bahrani.my.id/docs/catatan/github/</link>

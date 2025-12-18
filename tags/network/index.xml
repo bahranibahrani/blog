@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Oct 2025 12:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.bahrani.my.id/tags/network/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Showcase: Network Automation Dashboard</title>
+      <link>https://blog.bahrani.my.id/docs/network-automation-platform/</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.bahrani.my.id/docs/network-automation-platform/</guid>
+      <description>Galeri fitur dan kapabilitas dari platform dashboard otomasi jaringan.</description>
+    </item>
     <item>
       <title>Proyek Visualisasi Jaringan CDP dengan Streamlit</title>
       <link>https://blog.bahrani.my.id/docs/catatan/proyek-visualisasi-jaringan-cdp/</link>

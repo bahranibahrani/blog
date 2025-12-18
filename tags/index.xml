@@ -11,20 +11,48 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.bahrani.my.id/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Git</title>
-      <link>https://blog.bahrani.my.id/tags/git/</link>
-      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/git/</guid>
+      <title>Automation</title>
+      <link>https://blog.bahrani.my.id/tags/automation/</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.bahrani.my.id/tags/automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dashboard</title>
+      <link>https://blog.bahrani.my.id/tags/dashboard/</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.bahrani.my.id/tags/dashboard/</guid>
       <description></description>
     </item>
     <item>
       <title>Network</title>
       <link>https://blog.bahrani.my.id/tags/network/</link>
-      <pubDate>Tue, 07 Oct 2025 12:00:00 +0700</pubDate>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://blog.bahrani.my.id/tags/network/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hidup</title>
+      <link>https://blog.bahrani.my.id/tags/hidup/</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.bahrani.my.id/tags/hidup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pengalaman</title>
+      <link>https://blog.bahrani.my.id/tags/pengalaman/</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.bahrani.my.id/tags/pengalaman/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Git</title>
+      <link>https://blog.bahrani.my.id/tags/git/</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.bahrani.my.id/tags/git/</guid>
       <description></description>
     </item>
     <item>
