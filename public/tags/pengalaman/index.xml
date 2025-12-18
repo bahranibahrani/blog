@@ -2,23 +2,131 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pengalaman on My Blog</title>
-    <link>http://localhost:1313/tags/pengalaman/</link>
+    <link>http://localhost:54769/tags/pengalaman/</link>
     <description>Recent content in Pengalaman on My Blog</description>
     <image>
       <title>My Blog</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:54769/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:54769/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/pengalaman/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:54769/tags/pengalaman/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pengalaman Pribadi Saya</title>
-      <link>http://localhost:1313/docs/pribadi/post-pribadi/</link>
-      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/pribadi/post-pribadi/</guid>
-      <description>&lt;p&gt;Ini adalah postingan tentang pengalaman pribadi saya. Saya akan berbagi beberapa cerita menarik di sini.&lt;/p&gt;</description>
+      <title>Rumus Excel</title>
+      <link>http://localhost:54769/docs/pribadi/panduan_profesional_rumus_excel/</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54769/docs/pribadi/panduan_profesional_rumus_excel/</guid>
+      <description>&lt;h1 id=&#34;panduan-profesional-kombinasi-rumus-lanjutan-excel--google-sheets&#34;&gt;Panduan Profesional: Kombinasi Rumus Lanjutan Excel &amp;amp; Google Sheets&lt;/h1&gt;
+&lt;p&gt;Dokumen ini menyajikan kumpulan teknik dan kombinasi rumus tingkat lanjut yang dirancang untuk meningkatkan efisiensi, fleksibilitas, dan profesionalisme dalam analisis data menggunakan spreadsheet. Setiap bagian menjelaskan skenario bisnis, struktur rumus, dan contoh praktis.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;bab-1-teknik-pencarian-lookup-dinamis--multi-dimensi&#34;&gt;Bab 1: Teknik Pencarian (Lookup) Dinamis &amp;amp; Multi-Dimensi&lt;/h2&gt;
+&lt;h3 id=&#34;11-pencarian-dua-arah-two-way-lookup&#34;&gt;1.1. Pencarian Dua Arah (Two-Way Lookup)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Nama Kombinasi:&lt;/strong&gt; &lt;code&gt;INDEX&lt;/code&gt; + &lt;code&gt;MATCH&lt;/code&gt; + &lt;code&gt;MATCH&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Skenario Penggunaan:&lt;/strong&gt; Ketika Anda perlu mengekstrak nilai dari sebuah tabel (matriks) di mana baik kriteria baris maupun kriteria kolom bersifat dinamis. Sangat berguna untuk dasbor atau laporan di mana pengguna bisa memilih parameter yang berbeda.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Struktur Rumus:&lt;/strong&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-excel&#34; data-lang=&#34;excel&#34;&gt;=INDEX(rentang_data_keseluruhan, MATCH(kriteria_baris, rentang_header_baris, 0), MATCH(kriteria_kolom, rentang_header_kolom, 0))
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Penjelasan Komponen:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;INDEX(rentang_data_keseluruhan, ...)&lt;/code&gt;: Menentukan area tabel utama tempat nilai akan diambil.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;MATCH(kriteria_baris, ...)&lt;/code&gt;: Menemukan nomor baris yang cocok dengan kriteria.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;MATCH(kriteria_kolom, ...)&lt;/code&gt;: Menemukan nomor kolom yang cocok dengan kriteria.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contoh Praktis:&lt;/strong&gt;
+Misalkan Anda memiliki tabel penjualan produk per bulan. Produk ada di &lt;code&gt;A2:A10&lt;/code&gt;, bulan ada di &lt;code&gt;B1:G1&lt;/code&gt;, dan data penjualan ada di &lt;code&gt;B2:G10&lt;/code&gt;. Pengguna memilih produk di sel &lt;code&gt;I2&lt;/code&gt; dan bulan di sel &lt;code&gt;J2&lt;/code&gt;.
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-excel&#34; data-lang=&#34;excel&#34;&gt;=INDEX(B2:G10, MATCH(I2, A2:A10, 0), MATCH(J2, B1:G1, 0))
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Keunggulan:&lt;/strong&gt; Sangat dinamis dan kokoh. Jauh lebih superior daripada kombinasi &lt;code&gt;VLOOKUP&lt;/code&gt; atau &lt;code&gt;HLOOKUP&lt;/code&gt; yang rumit.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;12-pencarian-lintas-lembar-kerja-cross-sheet-lookup&#34;&gt;1.2. Pencarian Lintas Lembar Kerja (Cross-Sheet Lookup)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Nama Kombinasi:&lt;/strong&gt; &lt;code&gt;INDIRECT&lt;/code&gt; + &lt;code&gt;VLOOKUP&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Skenario Penggunaan:&lt;/strong&gt; Ketika Anda perlu mengambil data dari lembar kerja (sheet) yang berbeda, di mana nama lembar kerja tersebut ditentukan oleh nilai dari sel lain. Berguna untuk mengkonsolidasikan data dari banyak sheet dengan struktur yang sama (misal, sheet &amp;ldquo;Januari&amp;rdquo;, &amp;ldquo;Februari&amp;rdquo;, dst.).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Struktur Rumus:&lt;/strong&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-excel&#34; data-lang=&#34;excel&#34;&gt;=VLOOKUP(nilai_dicari, INDIRECT(&amp;#34;&amp;#39;&amp;#34; &amp;amp; nama_sheet &amp;amp; &amp;#34;&amp;#39;!&amp;#34; &amp;amp; &amp;#34;rentang_tabel&amp;#34;), kolom_hasil, FALSE)
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Penjelasan Komponen:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;INDIRECT(...)&lt;/code&gt;: Mengubah string teks menjadi referensi sel yang valid.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;&amp;quot;&#39;&amp;quot; &amp;amp; nama_sheet &amp;amp; &amp;quot;&#39;!&amp;quot; &amp;amp; &amp;quot;rentang_tabel&amp;quot;&lt;/code&gt;: Membuat string referensi, contoh: &lt;code&gt;&#39;Januari&#39;!A2:D100&lt;/code&gt;. Tanda kutip tunggal diperlukan jika nama sheet mengandung spasi.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contoh Praktis:&lt;/strong&gt;
+Nama sheet (misal, &amp;ldquo;Januari&amp;rdquo;) ada di sel &lt;code&gt;A1&lt;/code&gt;. Anda ingin mencari &lt;code&gt;B1&lt;/code&gt; dalam tabel &lt;code&gt;A2:D100&lt;/code&gt; di sheet tersebut.
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-excel&#34; data-lang=&#34;excel&#34;&gt;=VLOOKUP(B1, INDIRECT(&amp;#34;&amp;#39;&amp;#34; &amp;amp; A1 &amp;amp; &amp;#34;&amp;#39;!A2:D100&amp;#34;), 2, FALSE)
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Perhatian:&lt;/strong&gt; &lt;code&gt;INDIRECT&lt;/code&gt; adalah fungsi &lt;em&gt;volatile&lt;/em&gt;, yang berarti akan dihitung ulang setiap kali ada perubahan di workbook, yang dapat memperlambat kinerja jika digunakan secara berlebihan.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;bab-2-agregasi--analisis-data-bersyarat-tingkat-lanjut&#34;&gt;Bab 2: Agregasi &amp;amp; Analisis Data Bersyarat Tingkat Lanjut&lt;/h2&gt;
+&lt;h3 id=&#34;21-filter-dinamis-dengan-logika-andor&#34;&gt;2.1. Filter Dinamis dengan Logika AND/OR&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Nama Kombinasi:&lt;/strong&gt; &lt;code&gt;FILTER&lt;/code&gt; dengan operator &lt;code&gt;*&lt;/code&gt; (AND) dan &lt;code&gt;+&lt;/code&gt; (OR)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Skenario Penggunaan:&lt;/strong&gt; (Excel 365/Google Sheets) Menyaring sebuah dataset berdasarkan beberapa kriteria yang kompleks, menggabungkan kondisi AND dan OR dalam satu formula.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Struktur Rumus:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Logika AND:&lt;/strong&gt; &lt;code&gt;FILTER(rentang, (kriteria_rentang1 = kriteria1) * (kriteria_rentang2 = kriteria2))&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Logika OR:&lt;/strong&gt; &lt;code&gt;FILTER(rentang, (kriteria_rentang1 = kriteria1) + (kriteria_rentang2 = kriteria2))&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Penjelasan Komponen:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Dalam konteks &lt;code&gt;FILTER&lt;/code&gt;, &lt;code&gt;*&lt;/code&gt; (perkalian) bekerja sebagai &lt;code&gt;AND&lt;/code&gt; (TRUE*TRUE=1, lainnya 0).&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;+&lt;/code&gt; (penjumlahan) bekerja sebagai &lt;code&gt;OR&lt;/code&gt; (setidaknya satu TRUE akan menghasilkan nilai &amp;gt; 0).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contoh Praktis:&lt;/strong&gt;
+Menampilkan data dari &lt;code&gt;A2:C100&lt;/code&gt; yang memenuhi kondisi: &lt;strong&gt;Region&lt;/strong&gt; (kolom A) adalah &amp;ldquo;Utara&amp;rdquo; &lt;strong&gt;DAN&lt;/strong&gt; (&lt;strong&gt;Status&lt;/strong&gt; (kolom B) adalah &amp;ldquo;Selesai&amp;rdquo; &lt;strong&gt;ATAU&lt;/strong&gt; &lt;strong&gt;Sales&lt;/strong&gt; (kolom C) &amp;gt; 500).
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-excel&#34; data-lang=&#34;excel&#34;&gt;=FILTER(A2:C100, (A2:A100=&amp;#34;Utara&amp;#34;) * ((B2:B100=&amp;#34;Selesai&amp;#34;) + (C2:C100&amp;gt;500)))
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;22-ekstraksi-data-aman-dari-pivottable&#34;&gt;2.2. Ekstraksi Data Aman dari PivotTable&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Nama Fungsi:&lt;/strong&gt; &lt;code&gt;GETPIVOTDATA&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Skenario Penggunaan:&lt;/strong&gt; Mengambil nilai ringkasan dari PivotTable secara terprogram. Berbeda dengan referensi sel langsung (misal, &lt;code&gt;=C5&lt;/code&gt;), &lt;code&gt;GETPIVOTDATA&lt;/code&gt; tidak akan rusak meskipun tata letak PivotTable diubah (misal, field dipindahkan atau item difilter). Ini adalah praktik terbaik untuk membuat laporan dasbor yang terhubung ke PivotTable.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Struktur Rumus:&lt;/strong&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-excel&#34; data-lang=&#34;excel&#34;&gt;=GETPIVOTDATA(&amp;#34;Nama_Field_Data&amp;#34;, lokasi_pivot_table, &amp;#34;Field1&amp;#34;, &amp;#34;Item1&amp;#34;, &amp;#34;Field2&amp;#34;, &amp;#34;Item2&amp;#34;, ...)
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contoh Praktis:&lt;/strong&gt;
+Mengambil total &amp;ldquo;Jumlah Penjualan&amp;rdquo; untuk &amp;ldquo;Produk A&amp;rdquo; di &amp;ldquo;Region Timur&amp;rdquo; dari PivotTable yang dimulai di sel &lt;code&gt;A3&lt;/code&gt;.
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-excel&#34; data-lang=&#34;excel&#34;&gt;=GETPIVOTDATA(&amp;#34;Jumlah Penjualan&amp;#34;, $A$3, &amp;#34;Produk&amp;#34;, &amp;#34;Produk A&amp;#34;, &amp;#34;Region&amp;#34;, &amp;#34;Timur&amp;#34;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tips:&lt;/strong&gt; Cara termudah untuk membuat rumus ini adalah dengan mengetik &lt;code&gt;=&lt;/code&gt; di sel mana pun, lalu klik pada nilai di dalam PivotTable yang Anda inginkan. Excel akan secara otomatis menghasilkan formula &lt;code&gt;GETPIVOTDATA&lt;/code&gt; untuk Anda.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;bab-3-teknik-visualisasi--pelaporan-profesional&#34;&gt;Bab 3: Teknik Visualisasi &amp;amp; Pelaporan Profesional&lt;/h2&gt;
+&lt;h3 id=&#34;31-grafik-dalam-sel-in-cell-charting&#34;&gt;3.1. Grafik Dalam Sel (In-Cell Charting)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Nama Kombinasi:&lt;/strong&gt; &lt;code&gt;REPT&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Skenario Penggunaan:&lt;/strong&gt; Membuat visualisasi data sederhana (seperti bar chart) langsung di dalam sel, tanpa menggunakan objek grafik Excel. Sangat baik untuk tabel dasbor yang ringkas.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Struktur Rumus:&lt;/strong&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-excel&#34; data-lang=&#34;excel&#34;&gt;=REPT(&amp;#34;karakter_untuk_diulang&amp;#34;, jumlah_pengulangan)
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contoh Praktis:&lt;/strong&gt;
+Jika nilai penjualan ada di &lt;code&gt;A2&lt;/code&gt; (misal, 85), buat bar chart horizontal.
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-excel&#34; data-lang=&#34;excel&#34;&gt;=REPT(&amp;#34;|&amp;#34;, A2/10) 
+&lt;/code&gt;&lt;/pre&gt;Ini akan menampilkan &lt;code&gt;|||||||||&lt;/code&gt;. Anda bisa mengubah &lt;code&gt;10&lt;/code&gt; untuk skala. Gunakan font seperti &amp;ldquo;Playbill&amp;rdquo; atau &amp;ldquo;Stencilla&amp;rdquo; untuk membuat bar terlihat menyatu.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Keunggulan:&lt;/strong&gt; Ringan, terintegrasi dengan tabel, dan dinamis.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;32-judul-laporan-dinamis&#34;&gt;3.2. Judul Laporan Dinamis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Nama Kombinasi:&lt;/strong&gt; &lt;code&gt;TEXT&lt;/code&gt; + &lt;code&gt;TODAY()&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Skenario Penggunaan:&lt;/strong&gt; Membuat judul atau subjudul laporan yang secara otomatis diperbarui dengan tanggal atau periode saat ini, memberikan sentuhan profesional dan memastikan informasi selalu relevan.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Struktur Rumus:&lt;/strong&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-excel&#34; data-lang=&#34;excel&#34;&gt;=&amp;#34;Teks Statis &amp;#34; &amp;amp; TEXT(nilai_tanggal, &amp;#34;format_teks&amp;#34;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contoh Praktis:&lt;/strong&gt;
+Membuat judul &amp;ldquo;Laporan Penjualan Bulanan per 26 Oktober 2025&amp;rdquo;.
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-excel&#34; data-lang=&#34;excel&#34;&gt;=&amp;#34;Laporan Penjualan Bulanan per &amp;#34; &amp;amp; TEXT(TODAY(), &amp;#34;d MMMM yyyy&amp;#34;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Variasi:&lt;/strong&gt; Anda bisa menggunakan &lt;code&gt;EOMONTH(TODAY(), -1)&lt;/code&gt; untuk menampilkan tanggal akhir bulan sebelumnya, berguna untuk laporan bulanan.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;kombinasi-rumus-excel--google-sheets-yang-sering-digunakan&#34;&gt;Kombinasi Rumus Excel &amp;amp; Google Sheets yang Sering Digunakan&lt;/h1&gt;
+&lt;p&gt;Berikut adalah beberapa kombinasi rumus yang sangat kuat dan sering digunakan untuk menyelesaikan masalah yang lebih kompleks di Excel dan Google Sheets.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
