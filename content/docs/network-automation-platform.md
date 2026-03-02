@@ -11,7 +11,7 @@ description: "Galeri fitur dan kapabilitas dari platform dashboard otomasi jarin
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
+#disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true

@@ -7,9 +7,9 @@ draft: true
 tags: ["Contoh", "Markdown"]
 categories: ["Pribadi"]
 description: "Deskripsi singkat untuk postingan ini."
-showToc: true
-ShowReadingTime: true
-ShowWordCount: true
+showToc: false
+ShowReadingTime: false
+ShowWordCount: false
 ---
 
 ## Alasan
