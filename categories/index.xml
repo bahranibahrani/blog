@@ -11,20 +11,20 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.bahrani.my.id/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pribadi</title>
+      <link>https://blog.bahrani.my.id/categories/pribadi/</link>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.bahrani.my.id/categories/pribadi/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Showcase</title>
       <link>https://blog.bahrani.my.id/categories/showcase/</link>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://blog.bahrani.my.id/categories/showcase/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pribadi</title>
-      <link>https://blog.bahrani.my.id/categories/pribadi/</link>
-      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.bahrani.my.id/categories/pribadi/</guid>
       <description></description>
     </item>
     <item>
