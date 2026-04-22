@@ -4,7 +4,7 @@ date: {{ .Date }}
 draft: true
 description: ""
 tags: []
-categories: []
+categories: ["Catatan"]
 showToc: true
 TocOpen: false
 ShowReadingTime: true
