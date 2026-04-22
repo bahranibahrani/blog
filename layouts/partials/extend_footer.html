@@ -1,0 +1,58 @@
+{{- /* Footer custom content area start */ -}}
+
+<!-- Image Lightbox Script -->
+<script>
+(function() {
+  // Create lightbox elements
+  var overlay = document.createElement('div');
+  overlay.className = 'lightbox-overlay';
+  overlay.innerHTML = '<span class="lightbox-close">&times;</span><img src="" alt="Zoomed image" /><span class="zoom-hint">Klik di mana saja atau tekan ESC untuk menutup</span>';
+  document.body.appendChild(overlay);
+
+  var lightboxImg = overlay.querySelector('img');
+  var closeBtn = overlay.querySelector('.lightbox-close');
+
+  // Open lightbox when clicking post images
+  document.addEventListener('click', function(e) {
+    var img = e.target;
+    // Only target images inside .post-content
+    if (img.tagName === 'IMG' && img.closest('.post-content')) {
+      e.preventDefault();
+      lightboxImg.src = img.src;
+      lightboxImg.alt = img.alt || '';
+      overlay.classList.add('active');
+      document.body.style.overflow = 'hidden';
+    }
+  });
+
+  // Close lightbox
+  function closeLightbox() {
+    overlay.classList.remove('active');
+    document.body.style.overflow = '';
+    setTimeout(function() {
+      lightboxImg.src = '';
+    }, 300);
+  }
+
+  // Close on clicking overlay (not image)
+  overlay.addEventListener('click', function(e) {
+    if (e.target === overlay || e.target === closeBtn || e.target.closest('.lightbox-close')) {
+      closeLightbox();
+    }
+  });
+
+  // Prevent closing when clicking the image itself
+  lightboxImg.addEventListener('click', function(e) {
+    e.stopPropagation();
+  });
+
+  // Close on ESC key
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape' && overlay.classList.contains('active')) {
+      closeLightbox();
+    }
+  });
+})();
+</script>
+
+{{- /* Footer custom content area end */ -}}

@@ -65,13 +65,15 @@ params:
     enabled: true
     title: "Hi, Saya Bahrani 👋"
     subtitle: "🔧 Network Engineer · 🤖 Automation Enthusiast · 📚 Lifelong Learner\n\nTempat saya mencatat dan berbagi hal-hal yang saya pelajari tentang **Networking**, **Network Automation**, dan **Teknologi**."
-    imageUrl: "/img/1.png"
+    imageUrl: "/img/bahrani.jpg"
     imageWidth: 180
     imageHeight: 180
     imageTitle: Bahrani
     buttons:
       - name: 📝 Blog
         url: /docs/
+ #     - name: 📝 Blog
+ #       url: "https://bahrani.my.id"
       - name: 🏷️ Tags
         url: /tags/
       - name: 🔍 Search

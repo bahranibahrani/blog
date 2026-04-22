@@ -8,19 +8,26 @@
      ENHANCED PROFILE MODE STYLES
      ======================================== */
 
-  /* Profile image - animated border glow */
+  /* Profile image - polished look */
   .profile img {
     border-radius: 50%;
-    border: 3px solid var(--primary);
-    box-shadow: 0 0 20px rgba(128, 128, 128, 0.3);
+    object-fit: cover;
+    object-position: center;
+    border: 4px solid transparent;
+    background-origin: border-box;
+    background-clip: padding-box, border-box;
+    box-shadow: 
+      0 4px 15px rgba(0, 0, 0, 0.1),
+      0 0 0 2px var(--primary);
     transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     animation: float 6s ease-in-out infinite;
   }
 
   .profile img:hover {
     transform: scale(1.05) translateY(-5px);
-    box-shadow: 0 15px 35px rgba(128, 128, 128, 0.4);
-    border-color: var(--link);
+    box-shadow: 
+      0 12px 30px rgba(0, 0, 0, 0.2),
+      0 0 0 3px var(--link);
   }
 
   /* Floating animation for profile image */
@@ -169,6 +176,101 @@
     .profile .buttons {
       max-width: 300px;
     }
+  }
+
+  /* ========================================
+     IMAGE LIGHTBOX / ZOOM
+     ======================================== */
+
+  /* Make post images look clickable */
+  .post-content img {
+    cursor: zoom-in;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 8px;
+  }
+
+  .post-content img:hover {
+    transform: scale(1.02);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
+  }
+
+  /* Lightbox overlay */
+  .lightbox-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.85);
+    backdrop-filter: blur(8px);
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+    cursor: zoom-out;
+  }
+
+  .lightbox-overlay.active {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .lightbox-overlay img {
+    max-width: 95vw;
+    max-height: 92vh;
+    object-fit: contain;
+    border-radius: 8px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+    transform: scale(0.9);
+    transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    cursor: default;
+  }
+
+  .lightbox-overlay.active img {
+    transform: scale(1);
+  }
+
+  /* Zoom hint badge */
+  .lightbox-overlay .zoom-hint {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 0.85em;
+    padding: 6px 16px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    pointer-events: none;
+    transition: opacity 0.3s;
+  }
+
+  /* Close button */
+  .lightbox-overlay .lightbox-close {
+    position: absolute;
+    top: 16px;
+    right: 20px;
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 2em;
+    cursor: pointer;
+    width: 44px;
+    height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.1);
+    transition: background 0.2s, color 0.2s;
+    line-height: 1;
+    font-weight: 300;
+  }
+
+  .lightbox-overlay .lightbox-close:hover {
+    background: rgba(255, 255, 255, 0.25);
+    color: #fff;
   }
 
   /* Respect reduced motion preference */
