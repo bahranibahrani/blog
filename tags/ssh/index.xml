@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Ssh on Bahrani Blog</title>
+    <title>SSH on Bahrani Blog</title>
     <link>https://blog.bahrani.my.id/tags/ssh/</link>
-    <description>Recent content in Ssh on Bahrani Blog</description>
+    <description>Recent content in SSH on Bahrani Blog</description>
     <image>
       <title>Bahrani Blog</title>
       <url>https://blog.bahrani.my.id/img/bahrani.jpg</url>
@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo</generator>
     <language>id-id</language>
-    <lastBuildDate>Sun, 05 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 02:06:37 +0700</lastBuildDate>
     <atom:link href="https://blog.bahrani.my.id/tags/ssh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Server Local Bisa Di-SSH Lewat Domain</title>
+      <link>https://blog.bahrani.my.id/docs/catatan/ssh-local-domain/</link>
+      <pubDate>Thu, 23 Apr 2026 02:06:37 +0700</pubDate>
+      <guid>https://blog.bahrani.my.id/docs/catatan/ssh-local-domain/</guid>
+      <description>Cara mengakses server lokal dari mana saja lewat internet menggunakan Cloudflare Zero Trust Tunnel. Server di rumah, akses dari mana saja via domain.</description>
+    </item>
     <item>
       <title>Membangun Lab SSH Pribadi dengan Docker: Bahrani Labs</title>
       <link>https://blog.bahrani.my.id/docs/catatan/membangun-lab-ssh-docker/</link>

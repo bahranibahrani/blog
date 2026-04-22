@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo</generator>
     <language>id-id</language>
-    <lastBuildDate>Tue, 03 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 02:06:37 +0700</lastBuildDate>
     <atom:link href="https://blog.bahrani.my.id/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Server Local Bisa Di-SSH Lewat Domain</title>
+      <link>https://blog.bahrani.my.id/docs/catatan/ssh-local-domain/</link>
+      <pubDate>Thu, 23 Apr 2026 02:06:37 +0700</pubDate>
+      <guid>https://blog.bahrani.my.id/docs/catatan/ssh-local-domain/</guid>
+      <description>Cara mengakses server lokal dari mana saja lewat internet menggunakan Cloudflare Zero Trust Tunnel. Server di rumah, akses dari mana saja via domain.</description>
+    </item>
     <item>
       <title>Promo Domain Berkahost</title>
       <link>https://blog.bahrani.my.id/docs/catatan/domain/</link>
