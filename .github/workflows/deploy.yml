@@ -24,7 +24,7 @@ jobs:
 
       - name: Setup Hugo
         run: |
-          curl -L -o /tmp/hugo.tar.gz 'https://github.com/gohugoio/hugo/releases/download/v0.125.7/hugo_extended_0.125.7_linux-amd64.tar.gz'
+          curl -L -o /tmp/hugo.tar.gz 'https://github.com/gohugoio/hugo/releases/download/v0.157.0/hugo_extended_0.157.0_linux-amd64.tar.gz'
           tar -C ${RUNNER_TEMP} -zxvf /tmp/hugo.tar.gz hugo
           sudo mv ${RUNNER_TEMP}/hugo /usr/local/bin/hugo
 
@@ -34,10 +34,11 @@ jobs:
       - name: Deploy
         if: github.ref == 'refs/heads/main'
         run: |
-          cp -R public/* ${GITHUB_WORKSPACE}/built-site/
+          rm -rf ${GITHUB_WORKSPACE}/built-site/*
+          cp -R public/. ${GITHUB_WORKSPACE}/built-site/
           cd ${GITHUB_WORKSPACE}/built-site
-          git add .
+          git add -A
           git config user.name 'bahranibahrani'
           git config user.email 'bahranimsi@gmail.com'
-          git commit -m 'Updated site'
+          git diff --staged --quiet || git commit -m 'Updated site'
           git push
