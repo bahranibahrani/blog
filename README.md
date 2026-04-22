@@ -12,8 +12,6 @@ Blog pribadi tentang **Networking**, **Network Automation**, dan **Teknologi**.
 |----------|-----------|
 | Static Site Generator | [Hugo](https://gohugo.io/) |
 | Tema | [PaperMod](https://github.com/adityatelange/hugo-PaperMod) |
-| Hosting | Cloudflare Pages |
-| Domain | [tipsit.web.id](https://tipsit.web.id) via Berkahost |
 | DNS & CDN | Cloudflare |
 | Version Control | Git + GitHub |
 
