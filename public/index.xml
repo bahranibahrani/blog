@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My Blog</title>
-    <link>http://localhost:53827/</link>
-    <description>Recent content on My Blog</description>
+    <title>Bahrani Blog</title>
+    <link>http://localhost:57368/</link>
+    <description>Recent content on Bahrani Blog</description>
     <image>
-      <title>My Blog</title>
-      <url>http://localhost:53827/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:53827/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>Bahrani Blog</title>
+      <url>http://localhost:57368/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:57368/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:53827/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:57368/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Promo Domain Berkahost</title>
-      <link>http://localhost:53827/docs/catatan/domain/</link>
+      <link>http://localhost:57368/docs/catatan/domain/</link>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53827/docs/catatan/domain/</guid>
+      <guid>http://localhost:57368/docs/catatan/domain/</guid>
       <description>Kapan Lagi Promo domain my.id web.id dan biz.id hanya 3000 Pertahun</description>
     </item>
     <item>
       <title>Showcase: Network Automation Dashboard</title>
-      <link>http://localhost:53827/docs/network-automation-platform/</link>
+      <link>http://localhost:57368/docs/network-automation-platform/</link>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53827/docs/network-automation-platform/</guid>
+      <guid>http://localhost:57368/docs/network-automation-platform/</guid>
       <description>Galeri fitur dan kapabilitas dari platform dashboard otomasi jaringan.</description>
     </item>
     <item>
       <title>Rumus Excel</title>
-      <link>http://localhost:53827/docs/pribadi/panduan_profesional_rumus_excel/</link>
+      <link>http://localhost:57368/docs/pribadi/panduan_profesional_rumus_excel/</link>
       <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53827/docs/pribadi/panduan_profesional_rumus_excel/</guid>
+      <guid>http://localhost:57368/docs/pribadi/panduan_profesional_rumus_excel/</guid>
       <description>&lt;h1 id=&#34;panduan-profesional-kombinasi-rumus-lanjutan-excel--google-sheets&#34;&gt;Panduan Profesional: Kombinasi Rumus Lanjutan Excel &amp;amp; Google Sheets&lt;/h1&gt;
 &lt;p&gt;Dokumen ini menyajikan kumpulan teknik dan kombinasi rumus tingkat lanjut yang dirancang untuk meningkatkan efisiensi, fleksibilitas, dan profesionalisme dalam analisis data menggunakan spreadsheet. Setiap bagian menjelaskan skenario bisnis, struktur rumus, dan contoh praktis.&lt;/p&gt;
 &lt;hr&gt;
@@ -144,16 +144,16 @@ Membuat judul &amp;ldquo;Laporan Penjualan Bulanan per 26 Oktober 2025&amp;rdquo
     </item>
     <item>
       <title>GIT CHEAT SHEET</title>
-      <link>http://localhost:53827/docs/catatan/github/</link>
+      <link>http://localhost:57368/docs/catatan/github/</link>
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53827/docs/catatan/github/</guid>
+      <guid>http://localhost:57368/docs/catatan/github/</guid>
       <description>Git</description>
     </item>
     <item>
       <title>Proyek Visualisasi Jaringan CDP dengan Streamlit</title>
-      <link>http://localhost:53827/docs/catatan/proyek-visualisasi-jaringan-cdp/</link>
+      <link>http://localhost:57368/docs/catatan/proyek-visualisasi-jaringan-cdp/</link>
       <pubDate>Tue, 07 Oct 2025 12:00:00 +0700</pubDate>
-      <guid>http://localhost:53827/docs/catatan/proyek-visualisasi-jaringan-cdp/</guid>
+      <guid>http://localhost:57368/docs/catatan/proyek-visualisasi-jaringan-cdp/</guid>
       <description>&lt;p&gt;Aplikasi web sederhana untuk memvisualisasikan topologi jaringan berdasarkan data dari Cisco Discovery Protocol (CDP) yang diekspor ke dalam format file Excel.&lt;/p&gt;
 &lt;h2 id=&#34;deskripsi&#34;&gt;Deskripsi&lt;/h2&gt;
 &lt;p&gt;Aplikasi ini menggunakan library &lt;strong&gt;Streamlit&lt;/strong&gt; di Python untuk membuat aplikasi web interaktif. Ia akan membaca file &lt;code&gt;.xlsx&lt;/code&gt; yang berisi data CDP (seperti nama perangkat, alamat IP, port yang terhubung, dll.), kemudian menggunakan library &lt;code&gt;networkx&lt;/code&gt; dan &lt;code&gt;matplotlib&lt;/code&gt; untuk membuat dan menampilkan gambar topologi jaringan.&lt;/p&gt;
@@ -177,17 +177,17 @@ Membuat judul &amp;ldquo;Laporan Penjualan Bulanan per 26 Oktober 2025&amp;rdquo
     </item>
     <item>
       <title>Membangun Lab SSH Pribadi dengan Docker: Bahrani Labs</title>
-      <link>http://localhost:53827/docs/catatan/membangun-lab-ssh-docker/</link>
+      <link>http://localhost:57368/docs/catatan/membangun-lab-ssh-docker/</link>
       <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53827/docs/catatan/membangun-lab-ssh-docker/</guid>
+      <guid>http://localhost:57368/docs/catatan/membangun-lab-ssh-docker/</guid>
       <description>&lt;p&gt;Sering kali kita membutuhkan sebuah lingkungan &lt;em&gt;sandbox&lt;/em&gt; atau lab virtual yang ringan untuk eksperimen, development, atau sekadar mencoba perintah-perintah sistem. Menggunakan Virtual Machine (VM) penuh terkadang terasa berlebihan. Artikel ini akan memandu Anda membangun &amp;ldquo;Bahrani Labs&amp;rdquo;: sebuah lab berbasis kontainer Docker yang bisa diakses via SSH, lengkap dengan persistensi data dan konfigurasi siap pakai.&lt;/p&gt;
 &lt;p&gt;Lab ini hadir dengan fitur esensial seperti &lt;strong&gt;akses SSH&lt;/strong&gt;, user &lt;code&gt;cisco&lt;/code&gt; dengan hak &lt;strong&gt;sudo&lt;/strong&gt;, &lt;strong&gt;volume persisten&lt;/strong&gt; untuk data Anda, &lt;strong&gt;healthcheck&lt;/strong&gt; untuk memonitor layanan, kebijakan &lt;strong&gt;restart otomatis&lt;/strong&gt;, dan zona waktu yang sudah disesuaikan untuk Indonesia (&lt;code&gt;Asia/Jakarta&lt;/code&gt;).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ulasan ShopeeVIP: Apakah Layak untuk Dompet Anda?</title>
-      <link>http://localhost:53827/docs/catatan/ulasan-shopeevip/</link>
+      <link>http://localhost:57368/docs/catatan/ulasan-shopeevip/</link>
       <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53827/docs/catatan/ulasan-shopeevip/</guid>
+      <guid>http://localhost:57368/docs/catatan/ulasan-shopeevip/</guid>
       <description>&lt;p&gt;Belanja online sudah menjadi bagian dari gaya hidup, dan platform seperti Shopee terus menawarkan program baru untuk memikat pengguna. Salah satunya adalah ShopeeVIP, sebuah program keanggotaan berbayar yang menjanjikan berbagai keuntungan eksklusif. Namun, apakah biaya yang dikeluarkan sepadan dengan manfaat yang didapat? Mari kita bedah lebih dalam.&lt;/p&gt;
 &lt;h2 id=&#34;kelebihan-shopeevip-apa-saja-keuntungannya&#34;&gt;Kelebihan ShopeeVIP: Apa Saja Keuntungannya?&lt;/h2&gt;
 &lt;p&gt;Program ini dirancang untuk memberikan nilai lebih bagi penggunanya melalui beberapa penawaran utama:&lt;/p&gt;
@@ -201,50 +201,50 @@ Membuat judul &amp;ldquo;Laporan Penjualan Bulanan per 26 Oktober 2025&amp;rdquo
     </item>
     <item>
       <title>Self-Hosting Made Easy: Konfigurasi Home Server Menggunakan Domain Cloudflare</title>
-      <link>http://localhost:53827/docs/catatan/self-hosting-cloudflare/</link>
+      <link>http://localhost:57368/docs/catatan/self-hosting-cloudflare/</link>
       <pubDate>Wed, 03 Sep 2025 10:46:27 +0700</pubDate>
-      <guid>http://localhost:53827/docs/catatan/self-hosting-cloudflare/</guid>
+      <guid>http://localhost:57368/docs/catatan/self-hosting-cloudflare/</guid>
       <description>&lt;h2 id=&#34;pendahuluan&#34;&gt;Pendahuluan&lt;/h2&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:53827/static/img/1.png&#34; alt=&#34;Image&#34;  /&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:57368/static/img/1.png&#34; alt=&#34;Image&#34;  /&gt;
 
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:53827/static/img/1.png&#34; alt=&#34;images&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:57368/static/img/1.png&#34; alt=&#34;images&#34;  /&gt;
 
 Self-hosting menjadi semakin populer bagi para penggemar teknologi yang ingin memiliki kontrol penuh atas data dan aplikasi mereka. Dengan self-hosting, Anda bisa menjalankan berbagai layanan, mulai dari situs web pribadi, cloud storage, hingga media server, langsung dari perangkat keras di rumah Anda. Namun, salah satu tantangan umum adalah mengekspos server rumah Anda ke internet dengan aman dan tanpa IP statis.&lt;/p&gt;
 &lt;p&gt;Di sinilah Cloudflare Tunnel datang untuk menyelamatkan. Cloudflare Tunnel (sebelumnya dikenal sebagai Argo Tunnel) memungkinkan Anda menghubungkan server Anda ke jaringan Cloudflare tanpa harus membuka port pada router atau memiliki alamat IP publik yang statis. Ini menciptakan koneksi yang aman dan terenkripsi antara server Anda dan Cloudflare, melindungi Anda dari serangan langsung.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ddd</title>
-      <link>http://localhost:53827/docs/catatan/catatan-penting/</link>
+      <link>http://localhost:57368/docs/catatan/catatan-penting/</link>
       <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53827/docs/catatan/catatan-penting/</guid>
+      <guid>http://localhost:57368/docs/catatan/catatan-penting/</guid>
       <description>Deskripsi singkat untuk postingan ini.</description>
     </item>
     <item>
       <title>Pengalaman Pribadi Saya</title>
-      <link>http://localhost:53827/docs/pribadi/post-pribadi/</link>
+      <link>http://localhost:57368/docs/pribadi/post-pribadi/</link>
       <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53827/docs/pribadi/post-pribadi/</guid>
+      <guid>http://localhost:57368/docs/pribadi/post-pribadi/</guid>
       <description>&lt;p&gt;Ini adalah postingan tentang pengalaman pribadi saya. Saya akan berbagi beberapa cerita menarik di sini.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contoh Sajas</title>
-      <link>http://localhost:53827/docs/contoh/</link>
+      <link>http://localhost:57368/docs/contoh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53827/docs/contoh/</guid>
+      <guid>http://localhost:57368/docs/contoh/</guid>
       <description>Desc Text.</description>
     </item>
     <item>
       <title>Selamat Datang Di Blog Saya</title>
-      <link>http://localhost:53827/docs/sambutan/</link>
+      <link>http://localhost:57368/docs/sambutan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53827/docs/sambutan/</guid>
+      <guid>http://localhost:57368/docs/sambutan/</guid>
       <description>Desc Text.</description>
     </item>
     <item>
       <title>Windows Terminal Dengan Oh-My-Posh</title>
-      <link>http://localhost:53827/docs/terminal/</link>
+      <link>http://localhost:57368/docs/terminal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53827/docs/terminal/</guid>
+      <guid>http://localhost:57368/docs/terminal/</guid>
       <description>Desc Text.</description>
     </item>
   </channel>

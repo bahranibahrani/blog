@@ -6,7 +6,7 @@ outputs:
 
 baseURL: "https://blog.bahrani.my.id/"
 languageCode: en-us
-title: My Blog
+title: Bahrani Blog
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -20,10 +20,10 @@ minify:
   minifyOutput: true
 
 params:
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  title: Bahrani Blog
+  description: "Blog pribadi tentang Networking, Automation, dan Teknologi"
+  keywords: [Blog, Portfolio, PaperMod, Networking, Automation]
+  author: Bahrani
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -34,7 +34,7 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
@@ -62,23 +62,20 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
+    enabled: true
+    title: "Hi, Saya Bahrani 👋"
+    subtitle: "🔧 Network Engineer · 🤖 Automation Enthusiast · 📚 Lifelong Learner\n\nTempat saya mencatat dan berbagi hal-hal yang saya pelajari tentang **Networking**, **Network Automation**, dan **Teknologi**."
+    imageUrl: "/img/1.png"
+    imageWidth: 180
+    imageHeight: 180
+    imageTitle: Bahrani
     buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
-
-  # home-info mode
-  homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+      - name: 📝 Blog
+        url: /docs/
+      - name: 🏷️ Tags
+        url: /tags/
+      - name: 🔍 Search
+        url: /search/
 
   socialIcons:
     - name: instagram
