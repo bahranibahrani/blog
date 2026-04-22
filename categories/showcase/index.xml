@@ -20,5 +20,22 @@
       <guid>https://blog.bahrani.my.id/docs/network-automation-platform/</guid>
       <description>Galeri fitur dan kapabilitas dari platform dashboard otomasi jaringan.</description>
     </item>
+    <item>
+      <title>Proyek Visualisasi Jaringan CDP dengan Streamlit</title>
+      <link>https://blog.bahrani.my.id/docs/catatan/proyek-visualisasi-jaringan-cdp/</link>
+      <pubDate>Tue, 07 Oct 2025 12:00:00 +0700</pubDate>
+      <guid>https://blog.bahrani.my.id/docs/catatan/proyek-visualisasi-jaringan-cdp/</guid>
+      <description>Aplikasi web sederhana untuk memvisualisasikan topologi jaringan berdasarkan data dari Cisco Discovery Protocol (CDP) yang diekspor ke dalam format file Excel.
+Deskripsi Aplikasi ini menggunakan library Streamlit di Python untuk membuat aplikasi web interaktif. Ia akan membaca file .xlsx yang berisi data CDP (seperti nama perangkat, alamat IP, port yang terhubung, dll.), kemudian menggunakan library networkx dan matplotlib untuk membuat dan menampilkan gambar topologi jaringan.
+Fitur Membaca data perangkat jaringan dari file Excel.</description>
+    </item>
+    <item>
+      <title>Membangun Lab SSH Pribadi dengan Docker: Bahrani Labs</title>
+      <link>https://blog.bahrani.my.id/docs/catatan/membangun-lab-ssh-docker/</link>
+      <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.bahrani.my.id/docs/catatan/membangun-lab-ssh-docker/</guid>
+      <description>Sering kali kita membutuhkan sebuah lingkungan sandbox atau lab virtual yang ringan untuk eksperimen, development, atau sekadar mencoba perintah-perintah sistem. Menggunakan Virtual Machine (VM) penuh terkadang terasa berlebihan. Artikel ini akan memandu Anda membangun &amp;ldquo;Bahrani Labs&amp;rdquo;: sebuah lab berbasis kontainer Docker yang bisa diakses via SSH, lengkap dengan persistensi data dan konfigurasi siap pakai.
+Lab ini hadir dengan fitur esensial seperti akses SSH, user cisco dengan hak sudo, volume persisten untuk data Anda, healthcheck untuk memonitor layanan, kebijakan restart otomatis, dan zona waktu yang sudah disesuaikan untuk Indonesia (Asia/Jakarta).</description>
+    </item>
   </channel>
 </rss>
