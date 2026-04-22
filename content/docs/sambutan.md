@@ -1,22 +1,15 @@
 ---
 title: "Selamat Datang Di Blog Saya"
-#date: 2020-09-15T11:30:03+00:00
-# weight: 1
-# aliases: ["/first"]
-# tags: ["first"]
+date: "2025-10-01"
 categories:
-    - Development
-author: "Me"
-# author: ["Me", "You"] # multiple authors
+    - Catatan
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
-disableHLJS: true # to disable highlightjs
+description: "Blog pribadi Bahrani — tempat mencatat dan berbagi tentang Networking, Network Automation, dan Teknologi."
 disableShare: false
-#disableHLJS: false
 hideSummary: false
 searchHidden: true
 ShowReadingTime: true
@@ -25,22 +18,18 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
-editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
-    text : "dadadadada"
 ---
-Saya sangat senang Anda menemukan blog ini dan berharap tulisan-tulisan di sini bisa bermanfaat bagi Anda. Blog ini akan membahas berbagai topik terkait dunia programming dan pengembangan perangkat lunak.
+Saya sangat senang Anda menemukan blog ini! Tempat ini saya gunakan untuk mencatat dan berbagi hal-hal yang saya pelajari sehari-hari, terutama di bidang **Networking**, **Network Automation**, dan **Teknologi** secara umum.
 
-Sebagai seorang developer, saya ingin berbagi pengetahuan dan pengalaman saya di bidang ini melalui tulisan-tulisan di blog ini. Saya berharap konten blog ini bisa menjadi referensi berguna bagi para developer pemula maupun berpengalaman.
+Sebagai seorang Network Engineer, saya sering bereksperimen dengan berbagai tools dan teknologi — mulai dari konfigurasi perangkat jaringan, otomasi dengan Python, pembuatan dashboard, hingga self-hosting di server rumahan.
 
-Di blog ini Anda bisa menemukan tutorial-tutorial programming, tips dan trik development, ulasan produk/tool developer, hingga opini pribadi saya seputar dunia programming dan technology. Kritik, saran, pertanyaan, dan diskusi dengan pembaca sangat saya harapkan untuk memperkaya kualitas blog ini.
+Di blog ini Anda bisa menemukan:
 
-Akhir kata, selamat membaca dan semoga blog ini bisa menjadi teman sharing ilmu tentang dunia programming dan pengembangan perangkat lunak. Jangan ragu untuk berinteraksi melalui kolom komentar ya!
+- 📝 **Catatan teknis** tentang networking dan automation
+- 🔧 **Tutorial** setup dan konfigurasi berbagai tools
+- 💡 **Tips & trik** yang saya temukan selama belajar dan bekerja
+- 🏠 **Pengalaman** self-hosting dan eksperimen dengan infrastruktur
+
+Semua tulisan di sini pada dasarnya adalah catatan pribadi yang saya buat terbuka, siapa tahu bisa bermanfaat bagi orang lain yang sedang belajar hal serupa. Jika ada pertanyaan atau ingin berdiskusi, jangan ragu untuk menghubungi saya melalui social media di bawah ini.
+
+Selamat membaca! 🚀

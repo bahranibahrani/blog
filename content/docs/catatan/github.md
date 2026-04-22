@@ -2,7 +2,6 @@
 title: "GIT CHEAT SHEET"
 date: "2025-10-17"
 lastmod: "2025-10-17"
-author: "Nama Anda"
 draft: false
 tags: ["Git"]
 categories: ["Pribadi"]

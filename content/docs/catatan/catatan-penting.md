@@ -2,7 +2,6 @@
 title: "ddd"
 date: "2025-08-31"
 lastmod: "2025-08-31"
-author: "Nama Anda"
 draft: true
 tags: ["Contoh", "Markdown"]
 categories: ["Pribadi"]
