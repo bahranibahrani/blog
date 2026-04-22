@@ -8,7 +8,6 @@ showToc: true
 hidemeta: false
 comments: false
 description: "Kapan Lagi Promo domain my.id web.id dan biz.id hanya 3000 Pertahun"
-canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 #disableHLJS: false

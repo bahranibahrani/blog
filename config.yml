@@ -5,7 +5,7 @@ outputs:
     - JSON # necessary for search
 
 baseURL: "https://blog.bahrani.my.id/"
-languageCode: en-us
+languageCode: id-id
 title: Bahrani Blog
 theme: PaperMod
 
@@ -25,7 +25,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod, Networking, Automation]
   author: Bahrani
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["/img/bahrani.jpg"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -49,11 +49,11 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "/img/bahrani.jpg"
+    favicon16x16: "/img/bahrani.jpg"
+    favicon32x32: "/img/bahrani.jpg"
+    apple_touch_icon: "/img/bahrani.jpg"
+    safari_pinned_tab: "/img/bahrani.jpg"
 
   label:
     text: "Home"
@@ -93,7 +93,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/bahranibahrani/blog/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 

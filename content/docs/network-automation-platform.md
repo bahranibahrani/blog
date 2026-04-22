@@ -8,7 +8,6 @@ showToc: true
 hidemeta: false
 comments: false
 description: "Galeri fitur dan kapabilitas dari platform dashboard otomasi jaringan."
-canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 #disableHLJS: false
