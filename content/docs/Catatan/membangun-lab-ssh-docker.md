@@ -2,7 +2,7 @@
 title: "Membangun Lab SSH Pribadi dengan Docker: Bahrani Labs"
 date: 2025-10-05T00:00:00Z
 tags: ["docker", "ssh", "devops", "tutorial", "container"]
-categories: ["Catatan"]
+categories: ["Showcase"]
 draft: false
 ---
 

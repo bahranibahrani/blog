@@ -2,7 +2,7 @@
 title: "Proyek Visualisasi Jaringan CDP dengan Streamlit"
 date: 2025-10-07T12:00:00+07:00
 tags: ["python", "network", "streamlit"]
-categories: ["Catatan"]
+categories: ["Showcase"]
 draft: false
 ---
 
