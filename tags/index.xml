@@ -11,8 +11,36 @@
     </image>
     <generator>Hugo</generator>
     <language>id-id</language>
-    <lastBuildDate>Thu, 23 Apr 2026 02:06:37 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 23:22:21 +0700</lastBuildDate>
     <atom:link href="https://blog.bahrani.my.id/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CI/CD</title>
+      <link>https://blog.bahrani.my.id/tags/ci/cd/</link>
+      <pubDate>Sun, 26 Apr 2026 23:22:21 +0700</pubDate>
+      <guid>https://blog.bahrani.my.id/tags/ci/cd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DevOps</title>
+      <link>https://blog.bahrani.my.id/tags/devops/</link>
+      <pubDate>Sun, 26 Apr 2026 23:22:21 +0700</pubDate>
+      <guid>https://blog.bahrani.my.id/tags/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GitLab Runner</title>
+      <link>https://blog.bahrani.my.id/tags/gitlab-runner/</link>
+      <pubDate>Sun, 26 Apr 2026 23:22:21 +0700</pubDate>
+      <guid>https://blog.bahrani.my.id/tags/gitlab-runner/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Self-Hosted Runner</title>
+      <link>https://blog.bahrani.my.id/tags/self-hosted-runner/</link>
+      <pubDate>Sun, 26 Apr 2026 23:22:21 +0700</pubDate>
+      <guid>https://blog.bahrani.my.id/tags/self-hosted-runner/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Cloudflare</title>
       <link>https://blog.bahrani.my.id/tags/cloudflare/</link>
@@ -116,13 +144,6 @@
       <link>https://blog.bahrani.my.id/tags/container/</link>
       <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://blog.bahrani.my.id/tags/container/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Devops</title>
-      <link>https://blog.bahrani.my.id/tags/devops/</link>
-      <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/devops/</guid>
       <description></description>
     </item>
     <item>

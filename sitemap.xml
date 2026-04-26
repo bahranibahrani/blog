@@ -3,18 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.bahrani.my.id/</loc>
-    <lastmod>2026-04-23T02:06:37+07:00</lastmod>
+    <lastmod>2026-04-26T23:22:21+07:00</lastmod>
   </url><url>
     <loc>https://blog.bahrani.my.id/categories/catatan/</loc>
-    <lastmod>2026-04-23T02:06:37+07:00</lastmod>
+    <lastmod>2026-04-26T23:22:21+07:00</lastmod>
   </url><url>
     <loc>https://blog.bahrani.my.id/categories/</loc>
-    <lastmod>2026-04-23T02:06:37+07:00</lastmod>
+    <lastmod>2026-04-26T23:22:21+07:00</lastmod>
   </url><url>
-    <loc>https://blog.bahrani.my.id/tags/cloudflare/</loc>
-    <lastmod>2026-04-23T02:06:37+07:00</lastmod>
+    <loc>https://blog.bahrani.my.id/tags/ci/cd/</loc>
+    <lastmod>2026-04-26T23:22:21+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.bahrani.my.id/tags/devops/</loc>
+    <lastmod>2026-04-26T23:22:21+07:00</lastmod>
   </url><url>
     <loc>https://blog.bahrani.my.id/docs/</loc>
+    <lastmod>2026-04-26T23:22:21+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.bahrani.my.id/tags/gitlab-runner/</loc>
+    <lastmod>2026-04-26T23:22:21+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.bahrani.my.id/docs/catatan/ci-cd/</loc>
+    <lastmod>2026-04-26T23:22:21+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.bahrani.my.id/tags/self-hosted-runner/</loc>
+    <lastmod>2026-04-26T23:22:21+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.bahrani.my.id/tags/</loc>
+    <lastmod>2026-04-26T23:22:21+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.bahrani.my.id/tags/cloudflare/</loc>
     <lastmod>2026-04-23T02:06:37+07:00</lastmod>
   </url><url>
     <loc>https://blog.bahrani.my.id/tags/server/</loc>
@@ -24,9 +42,6 @@
     <lastmod>2026-04-23T02:06:37+07:00</lastmod>
   </url><url>
     <loc>https://blog.bahrani.my.id/tags/ssh/</loc>
-    <lastmod>2026-04-23T02:06:37+07:00</lastmod>
-  </url><url>
-    <loc>https://blog.bahrani.my.id/tags/</loc>
     <lastmod>2026-04-23T02:06:37+07:00</lastmod>
   </url><url>
     <loc>https://blog.bahrani.my.id/tags/tunnel/</loc>
@@ -84,9 +99,6 @@
     <lastmod>2025-10-07T12:00:00+07:00</lastmod>
   </url><url>
     <loc>https://blog.bahrani.my.id/tags/container/</loc>
-    <lastmod>2025-10-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.bahrani.my.id/tags/devops/</loc>
     <lastmod>2025-10-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.bahrani.my.id/tags/docker/</loc>
