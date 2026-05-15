@@ -11,8 +11,57 @@
     </image>
     <generator>Hugo</generator>
     <language>id-id</language>
-    <lastBuildDate>Sun, 26 Apr 2026 23:22:21 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 17:20:44 +0700</lastBuildDate>
     <atom:link href="https://blog.bahrani.my.id/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>File Sharing</title>
+      <link>https://blog.bahrani.my.id/tags/file-sharing/</link>
+      <pubDate>Fri, 15 May 2026 17:20:44 +0700</pubDate>
+      <guid>https://blog.bahrani.my.id/tags/file-sharing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FileDrive</title>
+      <link>https://blog.bahrani.my.id/tags/filedrive/</link>
+      <pubDate>Fri, 15 May 2026 17:20:44 +0700</pubDate>
+      <guid>https://blog.bahrani.my.id/tags/filedrive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GitHub Pages</title>
+      <link>https://blog.bahrani.my.id/tags/github-pages/</link>
+      <pubDate>Fri, 15 May 2026 17:20:44 +0700</pubDate>
+      <guid>https://blog.bahrani.my.id/tags/github-pages/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google Apps Script</title>
+      <link>https://blog.bahrani.my.id/tags/google-apps-script/</link>
+      <pubDate>Fri, 15 May 2026 17:20:44 +0700</pubDate>
+      <guid>https://blog.bahrani.my.id/tags/google-apps-script/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google Drive</title>
+      <link>https://blog.bahrani.my.id/tags/google-drive/</link>
+      <pubDate>Fri, 15 May 2026 17:20:44 +0700</pubDate>
+      <guid>https://blog.bahrani.my.id/tags/google-drive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutorial</title>
+      <link>https://blog.bahrani.my.id/tags/tutorial/</link>
+      <pubDate>Fri, 15 May 2026 17:20:44 +0700</pubDate>
+      <guid>https://blog.bahrani.my.id/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web App</title>
+      <link>https://blog.bahrani.my.id/tags/web-app/</link>
+      <pubDate>Fri, 15 May 2026 17:20:44 +0700</pubDate>
+      <guid>https://blog.bahrani.my.id/tags/web-app/</guid>
+      <description></description>
+    </item>
     <item>
       <title>CI/CD</title>
       <link>https://blog.bahrani.my.id/tags/ci/cd/</link>
@@ -56,7 +105,7 @@
       <description></description>
     </item>
     <item>
-      <title>SSH</title>
+      <title>Ssh</title>
       <link>https://blog.bahrani.my.id/tags/ssh/</link>
       <pubDate>Thu, 23 Apr 2026 02:06:37 +0700</pubDate>
       <guid>https://blog.bahrani.my.id/tags/ssh/</guid>
@@ -151,13 +200,6 @@
       <link>https://blog.bahrani.my.id/tags/docker/</link>
       <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://blog.bahrani.my.id/tags/docker/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tutorial</title>
-      <link>https://blog.bahrani.my.id/tags/tutorial/</link>
-      <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/tutorial/</guid>
       <description></description>
     </item>
   </channel>

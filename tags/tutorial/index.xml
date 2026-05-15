@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo</generator>
     <language>id-id</language>
-    <lastBuildDate>Sun, 05 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 17:20:44 +0700</lastBuildDate>
     <atom:link href="https://blog.bahrani.my.id/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📦 FileDrive Portal: Cara Praktis Bagikan File Besar Tanpa Ribet</title>
+      <link>https://blog.bahrani.my.id/docs/catatan/filedrive/</link>
+      <pubDate>Fri, 15 May 2026 17:20:44 +0700</pubDate>
+      <guid>https://blog.bahrani.my.id/docs/catatan/filedrive/</guid>
+      <description>FileDrive Portal hadir untuk memudahkan saya berbagi file besar dengan cepat, aman, dan gratis, tanpa perlu server atau hosting berbayar.</description>
+    </item>
     <item>
       <title>Membangun Lab SSH Pribadi dengan Docker: Bahrani Labs</title>
       <link>https://blog.bahrani.my.id/docs/catatan/membangun-lab-ssh-docker/</link>

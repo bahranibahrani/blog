@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>FileDrive on Bahrani Blog</title>
+    <link>https://blog.bahrani.my.id/tags/filedrive/</link>
+    <description>Recent content in FileDrive on Bahrani Blog</description>
+    <image>
+      <title>Bahrani Blog</title>
+      <url>https://blog.bahrani.my.id/img/bahrani.jpg</url>
+      <link>https://blog.bahrani.my.id/img/bahrani.jpg</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>id-id</language>
+    <lastBuildDate>Fri, 15 May 2026 17:20:44 +0700</lastBuildDate>
+    <atom:link href="https://blog.bahrani.my.id/tags/filedrive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📦 FileDrive Portal: Cara Praktis Bagikan File Besar Tanpa Ribet</title>
+      <link>https://blog.bahrani.my.id/docs/catatan/filedrive/</link>
+      <pubDate>Fri, 15 May 2026 17:20:44 +0700</pubDate>
+      <guid>https://blog.bahrani.my.id/docs/catatan/filedrive/</guid>
+      <description>FileDrive Portal hadir untuk memudahkan saya berbagi file besar dengan cepat, aman, dan gratis, tanpa perlu server atau hosting berbayar.</description>
+    </item>
+  </channel>
+</rss>
