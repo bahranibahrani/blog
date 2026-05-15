@@ -2,7 +2,7 @@
 title: "📦 FileDrive Portal: Cara Praktis Bagikan File Besar Tanpa Ribet"
 date: 2026-05-15T17:20:44+07:00
 draft: false
-description: "FileDrive Portal hadir untuk memudahkan kamu berbagi file besar dengan cepat, aman, dan gratis, tanpa perlu server atau hosting berbayar."
+description: "FileDrive Portal hadir untuk memudahkan saya berbagi file besar dengan cepat, aman, dan gratis, tanpa perlu server atau hosting berbayar."
 tags: ["FileDrive", "Google Drive", "File Sharing", "Web App", "Google Apps Script", "GitHub Pages", "Tutorial"]
 categories: ["Showcase"]
 showToc: true
