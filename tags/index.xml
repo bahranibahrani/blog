@@ -11,8 +11,36 @@
     </image>
     <generator>Hugo</generator>
     <language>id-id</language>
-    <lastBuildDate>Fri, 15 May 2026 17:20:44 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 19:13:53 +0700</lastBuildDate>
     <atom:link href="https://blog.bahrani.my.id/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NAT</title>
+      <link>https://blog.bahrani.my.id/tags/nat/</link>
+      <pubDate>Tue, 02 Jun 2026 19:13:53 +0700</pubDate>
+      <guid>https://blog.bahrani.my.id/tags/nat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Networking</title>
+      <link>https://blog.bahrani.my.id/tags/networking/</link>
+      <pubDate>Tue, 02 Jun 2026 19:13:53 +0700</pubDate>
+      <guid>https://blog.bahrani.my.id/tags/networking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Port-Forwarding</title>
+      <link>https://blog.bahrani.my.id/tags/port-forwarding/</link>
+      <pubDate>Tue, 02 Jun 2026 19:13:53 +0700</pubDate>
+      <guid>https://blog.bahrani.my.id/tags/port-forwarding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Router</title>
+      <link>https://blog.bahrani.my.id/tags/router/</link>
+      <pubDate>Tue, 02 Jun 2026 19:13:53 +0700</pubDate>
+      <guid>https://blog.bahrani.my.id/tags/router/</guid>
+      <description></description>
+    </item>
     <item>
       <title>File Sharing</title>
       <link>https://blog.bahrani.my.id/tags/file-sharing/</link>
@@ -70,7 +98,7 @@
       <description></description>
     </item>
     <item>
-      <title>DevOps</title>
+      <title>Devops</title>
       <link>https://blog.bahrani.my.id/tags/devops/</link>
       <pubDate>Sun, 26 Apr 2026 23:22:21 +0700</pubDate>
       <guid>https://blog.bahrani.my.id/tags/devops/</guid>
@@ -105,7 +133,7 @@
       <description></description>
     </item>
     <item>
-      <title>Ssh</title>
+      <title>SSH</title>
       <link>https://blog.bahrani.my.id/tags/ssh/</link>
       <pubDate>Thu, 23 Apr 2026 02:06:37 +0700</pubDate>
       <guid>https://blog.bahrani.my.id/tags/ssh/</guid>

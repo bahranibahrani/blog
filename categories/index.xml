@@ -11,20 +11,20 @@
     </image>
     <generator>Hugo</generator>
     <language>id-id</language>
-    <lastBuildDate>Fri, 15 May 2026 17:20:44 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 19:13:53 +0700</lastBuildDate>
     <atom:link href="https://blog.bahrani.my.id/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Catatan</title>
+      <link>https://blog.bahrani.my.id/categories/catatan/</link>
+      <pubDate>Tue, 02 Jun 2026 19:13:53 +0700</pubDate>
+      <guid>https://blog.bahrani.my.id/categories/catatan/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Showcase</title>
       <link>https://blog.bahrani.my.id/categories/showcase/</link>
       <pubDate>Fri, 15 May 2026 17:20:44 +0700</pubDate>
       <guid>https://blog.bahrani.my.id/categories/showcase/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Catatan</title>
-      <link>https://blog.bahrani.my.id/categories/catatan/</link>
-      <pubDate>Sun, 26 Apr 2026 23:22:21 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/categories/catatan/</guid>
       <description></description>
     </item>
     <item>

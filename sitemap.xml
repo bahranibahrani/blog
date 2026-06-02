@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.bahrani.my.id/docs/catatan/filedrive/</loc>
-    <lastmod>2026-05-15T17:20:44+07:00</lastmod>
-  </url><url>
     <loc>https://blog.bahrani.my.id/</loc>
-    <lastmod>2026-05-15T17:20:44+07:00</lastmod>
+    <lastmod>2026-06-02T19:13:53+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.bahrani.my.id/categories/catatan/</loc>
+    <lastmod>2026-06-02T19:13:53+07:00</lastmod>
   </url><url>
     <loc>https://blog.bahrani.my.id/categories/</loc>
-    <lastmod>2026-05-15T17:20:44+07:00</lastmod>
+    <lastmod>2026-06-02T19:13:53+07:00</lastmod>
   </url><url>
     <loc>https://blog.bahrani.my.id/docs/</loc>
+    <lastmod>2026-06-02T19:13:53+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.bahrani.my.id/tags/nat/</loc>
+    <lastmod>2026-06-02T19:13:53+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.bahrani.my.id/tags/networking/</loc>
+    <lastmod>2026-06-02T19:13:53+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.bahrani.my.id/docs/catatan/portforwarding/</loc>
+    <lastmod>2026-06-02T19:13:53+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.bahrani.my.id/tags/port-forwarding/</loc>
+    <lastmod>2026-06-02T19:13:53+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.bahrani.my.id/tags/router/</loc>
+    <lastmod>2026-06-02T19:13:53+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.bahrani.my.id/tags/</loc>
+    <lastmod>2026-06-02T19:13:53+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.bahrani.my.id/docs/catatan/filedrive/</loc>
     <lastmod>2026-05-15T17:20:44+07:00</lastmod>
   </url><url>
     <loc>https://blog.bahrani.my.id/tags/file-sharing/</loc>
@@ -32,17 +53,11 @@
     <loc>https://blog.bahrani.my.id/categories/showcase/</loc>
     <lastmod>2026-05-15T17:20:44+07:00</lastmod>
   </url><url>
-    <loc>https://blog.bahrani.my.id/tags/</loc>
-    <lastmod>2026-05-15T17:20:44+07:00</lastmod>
-  </url><url>
     <loc>https://blog.bahrani.my.id/tags/tutorial/</loc>
     <lastmod>2026-05-15T17:20:44+07:00</lastmod>
   </url><url>
     <loc>https://blog.bahrani.my.id/tags/web-app/</loc>
     <lastmod>2026-05-15T17:20:44+07:00</lastmod>
-  </url><url>
-    <loc>https://blog.bahrani.my.id/categories/catatan/</loc>
-    <lastmod>2026-04-26T23:22:21+07:00</lastmod>
   </url><url>
     <loc>https://blog.bahrani.my.id/tags/ci/cd/</loc>
     <lastmod>2026-04-26T23:22:21+07:00</lastmod>

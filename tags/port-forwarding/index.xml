@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Port-Forwarding on Bahrani Blog</title>
+    <link>https://blog.bahrani.my.id/tags/port-forwarding/</link>
+    <description>Recent content in Port-Forwarding on Bahrani Blog</description>
+    <image>
+      <title>Bahrani Blog</title>
+      <url>https://blog.bahrani.my.id/img/bahrani.jpg</url>
+      <link>https://blog.bahrani.my.id/img/bahrani.jpg</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>id-id</language>
+    <lastBuildDate>Tue, 02 Jun 2026 19:13:53 +0700</lastBuildDate>
+    <atom:link href="https://blog.bahrani.my.id/tags/port-forwarding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Port Forwarding</title>
+      <link>https://blog.bahrani.my.id/docs/catatan/portforwarding/</link>
+      <pubDate>Tue, 02 Jun 2026 19:13:53 +0700</pubDate>
+      <guid>https://blog.bahrani.my.id/docs/catatan/portforwarding/</guid>
+      <description>Panduan lengkap tentang Port Forwarding, NAT, CGNAT, dan Port Mapping pada router</description>
+    </item>
+  </channel>
+</rss>
