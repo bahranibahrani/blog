@@ -2,64 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Bahrani Blog</title>
-    <link>https://blog.bahrani.my.id/</link>
+    <link>https://bahrani.id/</link>
     <description>Recent content on Bahrani Blog</description>
     <image>
       <title>Bahrani Blog</title>
-      <url>https://blog.bahrani.my.id/img/bahrani.jpg</url>
-      <link>https://blog.bahrani.my.id/img/bahrani.jpg</link>
+      <url>https://bahrani.id/img/bahrani.jpg</url>
+      <link>https://bahrani.id/img/bahrani.jpg</link>
     </image>
     <generator>Hugo</generator>
     <language>id-id</language>
     <lastBuildDate>Tue, 02 Jun 2026 19:13:53 +0700</lastBuildDate>
-    <atom:link href="https://blog.bahrani.my.id/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bahrani.id/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Port Forwarding</title>
-      <link>https://blog.bahrani.my.id/docs/catatan/portforwarding/</link>
+      <link>https://bahrani.id/docs/catatan/portforwarding/</link>
       <pubDate>Tue, 02 Jun 2026 19:13:53 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/docs/catatan/portforwarding/</guid>
+      <guid>https://bahrani.id/docs/catatan/portforwarding/</guid>
       <description>Panduan lengkap tentang Port Forwarding, NAT, CGNAT, dan Port Mapping pada router</description>
     </item>
     <item>
       <title>📦 FileDrive Portal: Cara Praktis Bagikan File Besar Tanpa Ribet</title>
-      <link>https://blog.bahrani.my.id/docs/catatan/filedrive/</link>
+      <link>https://bahrani.id/docs/catatan/filedrive/</link>
       <pubDate>Fri, 15 May 2026 17:20:44 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/docs/catatan/filedrive/</guid>
+      <guid>https://bahrani.id/docs/catatan/filedrive/</guid>
       <description>FileDrive Portal hadir untuk memudahkan saya berbagi file besar dengan cepat, aman, dan gratis, tanpa perlu server atau hosting berbayar.</description>
     </item>
     <item>
       <title>Penerapan CI/CD pada Server Lokal</title>
-      <link>https://blog.bahrani.my.id/docs/catatan/ci-cd/</link>
+      <link>https://bahrani.id/docs/catatan/ci-cd/</link>
       <pubDate>Sun, 26 Apr 2026 23:22:21 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/docs/catatan/ci-cd/</guid>
+      <guid>https://bahrani.id/docs/catatan/ci-cd/</guid>
       <description>Cara menerapkan CI/CD di server lokal menggunakan GitLab Runner agar setiap push ke Git otomatis di-deploy. Tidak perlu lagi clone dan deploy manual!</description>
     </item>
     <item>
       <title>Server Local Bisa Di-SSH Lewat Domain</title>
-      <link>https://blog.bahrani.my.id/docs/catatan/ssh-local-domain/</link>
+      <link>https://bahrani.id/docs/catatan/ssh-local-domain/</link>
       <pubDate>Thu, 23 Apr 2026 02:06:37 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/docs/catatan/ssh-local-domain/</guid>
+      <guid>https://bahrani.id/docs/catatan/ssh-local-domain/</guid>
       <description>Cara mengakses server lokal dari mana saja lewat internet menggunakan Cloudflare Zero Trust Tunnel. Server di rumah, akses dari mana saja via domain.</description>
     </item>
     <item>
       <title>Promo Domain Berkahost</title>
-      <link>https://blog.bahrani.my.id/docs/catatan/domain/</link>
+      <link>https://bahrani.id/docs/catatan/domain/</link>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://blog.bahrani.my.id/docs/catatan/domain/</guid>
+      <guid>https://bahrani.id/docs/catatan/domain/</guid>
       <description>Kapan Lagi Promo domain my.id web.id dan biz.id hanya 3000 Pertahun</description>
     </item>
     <item>
       <title>Showcase: Network Automation Dashboard</title>
-      <link>https://blog.bahrani.my.id/docs/network-automation-platform/</link>
+      <link>https://bahrani.id/docs/network-automation-platform/</link>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.bahrani.my.id/docs/network-automation-platform/</guid>
+      <guid>https://bahrani.id/docs/network-automation-platform/</guid>
       <description>Galeri fitur dan kapabilitas dari platform dashboard otomasi jaringan.</description>
     </item>
     <item>
       <title>Rumus Excel</title>
-      <link>https://blog.bahrani.my.id/docs/pribadi/panduan_profesional_rumus_excel/</link>
+      <link>https://bahrani.id/docs/pribadi/panduan_profesional_rumus_excel/</link>
       <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.bahrani.my.id/docs/pribadi/panduan_profesional_rumus_excel/</guid>
+      <guid>https://bahrani.id/docs/pribadi/panduan_profesional_rumus_excel/</guid>
       <description>&lt;h1 id=&#34;panduan-profesional-kombinasi-rumus-lanjutan-excel--google-sheets&#34;&gt;Panduan Profesional: Kombinasi Rumus Lanjutan Excel &amp;amp; Google Sheets&lt;/h1&gt;
 &lt;p&gt;Dokumen ini menyajikan kumpulan teknik dan kombinasi rumus tingkat lanjut yang dirancang untuk meningkatkan efisiensi, fleksibilitas, dan profesionalisme dalam analisis data menggunakan spreadsheet. Setiap bagian menjelaskan skenario bisnis, struktur rumus, dan contoh praktis.&lt;/p&gt;
 &lt;hr&gt;
@@ -172,16 +172,16 @@ Membuat judul &amp;ldquo;Laporan Penjualan Bulanan per 26 Oktober 2025&amp;rdquo
     </item>
     <item>
       <title>GIT CHEAT SHEET</title>
-      <link>https://blog.bahrani.my.id/docs/catatan/github/</link>
+      <link>https://bahrani.id/docs/catatan/github/</link>
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.bahrani.my.id/docs/catatan/github/</guid>
+      <guid>https://bahrani.id/docs/catatan/github/</guid>
       <description>Git</description>
     </item>
     <item>
       <title>Proyek Visualisasi Jaringan CDP dengan Streamlit</title>
-      <link>https://blog.bahrani.my.id/docs/catatan/proyek-visualisasi-jaringan-cdp/</link>
+      <link>https://bahrani.id/docs/catatan/proyek-visualisasi-jaringan-cdp/</link>
       <pubDate>Tue, 07 Oct 2025 12:00:00 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/docs/catatan/proyek-visualisasi-jaringan-cdp/</guid>
+      <guid>https://bahrani.id/docs/catatan/proyek-visualisasi-jaringan-cdp/</guid>
       <description>&lt;p&gt;Aplikasi web sederhana untuk memvisualisasikan topologi jaringan berdasarkan data dari Cisco Discovery Protocol (CDP) yang diekspor ke dalam format file Excel.&lt;/p&gt;
 &lt;h2 id=&#34;deskripsi&#34;&gt;Deskripsi&lt;/h2&gt;
 &lt;p&gt;Aplikasi ini menggunakan library &lt;strong&gt;Streamlit&lt;/strong&gt; di Python untuk membuat aplikasi web interaktif. Ia akan membaca file &lt;code&gt;.xlsx&lt;/code&gt; yang berisi data CDP (seperti nama perangkat, alamat IP, port yang terhubung, dll.), kemudian menggunakan library &lt;code&gt;networkx&lt;/code&gt; dan &lt;code&gt;matplotlib&lt;/code&gt; untuk membuat dan menampilkan gambar topologi jaringan.&lt;/p&gt;
@@ -205,17 +205,17 @@ Membuat judul &amp;ldquo;Laporan Penjualan Bulanan per 26 Oktober 2025&amp;rdquo
     </item>
     <item>
       <title>Membangun Lab SSH Pribadi dengan Docker: Bahrani Labs</title>
-      <link>https://blog.bahrani.my.id/docs/catatan/membangun-lab-ssh-docker/</link>
+      <link>https://bahrani.id/docs/catatan/membangun-lab-ssh-docker/</link>
       <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.bahrani.my.id/docs/catatan/membangun-lab-ssh-docker/</guid>
+      <guid>https://bahrani.id/docs/catatan/membangun-lab-ssh-docker/</guid>
       <description>&lt;p&gt;Sering kali kita membutuhkan sebuah lingkungan &lt;em&gt;sandbox&lt;/em&gt; atau lab virtual yang ringan untuk eksperimen, development, atau sekadar mencoba perintah-perintah sistem. Menggunakan Virtual Machine (VM) penuh terkadang terasa berlebihan. Artikel ini akan memandu Anda membangun &amp;ldquo;Bahrani Labs&amp;rdquo;: sebuah lab berbasis kontainer Docker yang bisa diakses via SSH, lengkap dengan persistensi data dan konfigurasi siap pakai.&lt;/p&gt;
 &lt;p&gt;Lab ini hadir dengan fitur esensial seperti &lt;strong&gt;akses SSH&lt;/strong&gt;, user &lt;code&gt;cisco&lt;/code&gt; dengan hak &lt;strong&gt;sudo&lt;/strong&gt;, &lt;strong&gt;volume persisten&lt;/strong&gt; untuk data Anda, &lt;strong&gt;healthcheck&lt;/strong&gt; untuk memonitor layanan, kebijakan &lt;strong&gt;restart otomatis&lt;/strong&gt;, dan zona waktu yang sudah disesuaikan untuk Indonesia (&lt;code&gt;Asia/Jakarta&lt;/code&gt;).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Selamat Datang Di Blog Saya</title>
-      <link>https://blog.bahrani.my.id/docs/sambutan/</link>
+      <link>https://bahrani.id/docs/sambutan/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.bahrani.my.id/docs/sambutan/</guid>
+      <guid>https://bahrani.id/docs/sambutan/</guid>
       <description>Blog pribadi Bahrani — tempat mencatat dan berbagi tentang Networking, Network Automation, dan Teknologi.</description>
     </item>
   </channel>

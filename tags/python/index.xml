@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Python on Bahrani Blog</title>
-    <link>https://blog.bahrani.my.id/tags/python/</link>
+    <link>https://bahrani.id/tags/python/</link>
     <description>Recent content in Python on Bahrani Blog</description>
     <image>
       <title>Bahrani Blog</title>
-      <url>https://blog.bahrani.my.id/img/bahrani.jpg</url>
-      <link>https://blog.bahrani.my.id/img/bahrani.jpg</link>
+      <url>https://bahrani.id/img/bahrani.jpg</url>
+      <link>https://bahrani.id/img/bahrani.jpg</link>
     </image>
     <generator>Hugo</generator>
     <language>id-id</language>
     <lastBuildDate>Tue, 07 Oct 2025 12:00:00 +0700</lastBuildDate>
-    <atom:link href="https://blog.bahrani.my.id/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bahrani.id/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Proyek Visualisasi Jaringan CDP dengan Streamlit</title>
-      <link>https://blog.bahrani.my.id/docs/catatan/proyek-visualisasi-jaringan-cdp/</link>
+      <link>https://bahrani.id/docs/catatan/proyek-visualisasi-jaringan-cdp/</link>
       <pubDate>Tue, 07 Oct 2025 12:00:00 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/docs/catatan/proyek-visualisasi-jaringan-cdp/</guid>
+      <guid>https://bahrani.id/docs/catatan/proyek-visualisasi-jaringan-cdp/</guid>
       <description>&lt;p&gt;Aplikasi web sederhana untuk memvisualisasikan topologi jaringan berdasarkan data dari Cisco Discovery Protocol (CDP) yang diekspor ke dalam format file Excel.&lt;/p&gt;
 &lt;h2 id=&#34;deskripsi&#34;&gt;Deskripsi&lt;/h2&gt;
 &lt;p&gt;Aplikasi ini menggunakan library &lt;strong&gt;Streamlit&lt;/strong&gt; di Python untuk membuat aplikasi web interaktif. Ia akan membaca file &lt;code&gt;.xlsx&lt;/code&gt; yang berisi data CDP (seperti nama perangkat, alamat IP, port yang terhubung, dll.), kemudian menggunakan library &lt;code&gt;networkx&lt;/code&gt; dan &lt;code&gt;matplotlib&lt;/code&gt; untuk membuat dan menampilkan gambar topologi jaringan.&lt;/p&gt;

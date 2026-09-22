@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hidup on Bahrani Blog</title>
-    <link>https://blog.bahrani.my.id/tags/hidup/</link>
+    <link>https://bahrani.id/tags/hidup/</link>
     <description>Recent content in Hidup on Bahrani Blog</description>
     <image>
       <title>Bahrani Blog</title>
-      <url>https://blog.bahrani.my.id/img/bahrani.jpg</url>
-      <link>https://blog.bahrani.my.id/img/bahrani.jpg</link>
+      <url>https://bahrani.id/img/bahrani.jpg</url>
+      <link>https://bahrani.id/img/bahrani.jpg</link>
     </image>
     <generator>Hugo</generator>
     <language>id-id</language>
     <lastBuildDate>Sun, 26 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.bahrani.my.id/tags/hidup/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bahrani.id/tags/hidup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rumus Excel</title>
-      <link>https://blog.bahrani.my.id/docs/pribadi/panduan_profesional_rumus_excel/</link>
+      <link>https://bahrani.id/docs/pribadi/panduan_profesional_rumus_excel/</link>
       <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.bahrani.my.id/docs/pribadi/panduan_profesional_rumus_excel/</guid>
+      <guid>https://bahrani.id/docs/pribadi/panduan_profesional_rumus_excel/</guid>
       <description>&lt;h1 id=&#34;panduan-profesional-kombinasi-rumus-lanjutan-excel--google-sheets&#34;&gt;Panduan Profesional: Kombinasi Rumus Lanjutan Excel &amp;amp; Google Sheets&lt;/h1&gt;
 &lt;p&gt;Dokumen ini menyajikan kumpulan teknik dan kombinasi rumus tingkat lanjut yang dirancang untuk meningkatkan efisiensi, fleksibilitas, dan profesionalisme dalam analisis data menggunakan spreadsheet. Setiap bagian menjelaskan skenario bisnis, struktur rumus, dan contoh praktis.&lt;/p&gt;
 &lt;hr&gt;

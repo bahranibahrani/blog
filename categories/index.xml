@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Bahrani Blog</title>
-    <link>https://blog.bahrani.my.id/categories/</link>
+    <link>https://bahrani.id/categories/</link>
     <description>Recent content in Categories on Bahrani Blog</description>
     <image>
       <title>Bahrani Blog</title>
-      <url>https://blog.bahrani.my.id/img/bahrani.jpg</url>
-      <link>https://blog.bahrani.my.id/img/bahrani.jpg</link>
+      <url>https://bahrani.id/img/bahrani.jpg</url>
+      <link>https://bahrani.id/img/bahrani.jpg</link>
     </image>
     <generator>Hugo</generator>
     <language>id-id</language>
     <lastBuildDate>Tue, 02 Jun 2026 19:13:53 +0700</lastBuildDate>
-    <atom:link href="https://blog.bahrani.my.id/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bahrani.id/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Catatan</title>
-      <link>https://blog.bahrani.my.id/categories/catatan/</link>
+      <link>https://bahrani.id/categories/catatan/</link>
       <pubDate>Tue, 02 Jun 2026 19:13:53 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/categories/catatan/</guid>
+      <guid>https://bahrani.id/categories/catatan/</guid>
       <description></description>
     </item>
     <item>
       <title>Showcase</title>
-      <link>https://blog.bahrani.my.id/categories/showcase/</link>
+      <link>https://bahrani.id/categories/showcase/</link>
       <pubDate>Fri, 15 May 2026 17:20:44 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/categories/showcase/</guid>
+      <guid>https://bahrani.id/categories/showcase/</guid>
       <description></description>
     </item>
     <item>
       <title>Pribadi</title>
-      <link>https://blog.bahrani.my.id/categories/pribadi/</link>
+      <link>https://bahrani.id/categories/pribadi/</link>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://blog.bahrani.my.id/categories/pribadi/</guid>
+      <guid>https://bahrani.id/categories/pribadi/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,232 +2,232 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Bahrani Blog</title>
-    <link>https://blog.bahrani.my.id/tags/</link>
+    <link>https://bahrani.id/tags/</link>
     <description>Recent content in Tags on Bahrani Blog</description>
     <image>
       <title>Bahrani Blog</title>
-      <url>https://blog.bahrani.my.id/img/bahrani.jpg</url>
-      <link>https://blog.bahrani.my.id/img/bahrani.jpg</link>
+      <url>https://bahrani.id/img/bahrani.jpg</url>
+      <link>https://bahrani.id/img/bahrani.jpg</link>
     </image>
     <generator>Hugo</generator>
     <language>id-id</language>
     <lastBuildDate>Tue, 02 Jun 2026 19:13:53 +0700</lastBuildDate>
-    <atom:link href="https://blog.bahrani.my.id/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bahrani.id/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NAT</title>
-      <link>https://blog.bahrani.my.id/tags/nat/</link>
+      <link>https://bahrani.id/tags/nat/</link>
       <pubDate>Tue, 02 Jun 2026 19:13:53 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/nat/</guid>
+      <guid>https://bahrani.id/tags/nat/</guid>
       <description></description>
     </item>
     <item>
       <title>Networking</title>
-      <link>https://blog.bahrani.my.id/tags/networking/</link>
+      <link>https://bahrani.id/tags/networking/</link>
       <pubDate>Tue, 02 Jun 2026 19:13:53 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/networking/</guid>
+      <guid>https://bahrani.id/tags/networking/</guid>
       <description></description>
     </item>
     <item>
       <title>Port-Forwarding</title>
-      <link>https://blog.bahrani.my.id/tags/port-forwarding/</link>
+      <link>https://bahrani.id/tags/port-forwarding/</link>
       <pubDate>Tue, 02 Jun 2026 19:13:53 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/port-forwarding/</guid>
+      <guid>https://bahrani.id/tags/port-forwarding/</guid>
       <description></description>
     </item>
     <item>
       <title>Router</title>
-      <link>https://blog.bahrani.my.id/tags/router/</link>
+      <link>https://bahrani.id/tags/router/</link>
       <pubDate>Tue, 02 Jun 2026 19:13:53 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/router/</guid>
+      <guid>https://bahrani.id/tags/router/</guid>
       <description></description>
     </item>
     <item>
       <title>File Sharing</title>
-      <link>https://blog.bahrani.my.id/tags/file-sharing/</link>
+      <link>https://bahrani.id/tags/file-sharing/</link>
       <pubDate>Fri, 15 May 2026 17:20:44 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/file-sharing/</guid>
+      <guid>https://bahrani.id/tags/file-sharing/</guid>
       <description></description>
     </item>
     <item>
       <title>FileDrive</title>
-      <link>https://blog.bahrani.my.id/tags/filedrive/</link>
+      <link>https://bahrani.id/tags/filedrive/</link>
       <pubDate>Fri, 15 May 2026 17:20:44 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/filedrive/</guid>
+      <guid>https://bahrani.id/tags/filedrive/</guid>
       <description></description>
     </item>
     <item>
       <title>GitHub Pages</title>
-      <link>https://blog.bahrani.my.id/tags/github-pages/</link>
+      <link>https://bahrani.id/tags/github-pages/</link>
       <pubDate>Fri, 15 May 2026 17:20:44 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/github-pages/</guid>
+      <guid>https://bahrani.id/tags/github-pages/</guid>
       <description></description>
     </item>
     <item>
       <title>Google Apps Script</title>
-      <link>https://blog.bahrani.my.id/tags/google-apps-script/</link>
+      <link>https://bahrani.id/tags/google-apps-script/</link>
       <pubDate>Fri, 15 May 2026 17:20:44 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/google-apps-script/</guid>
+      <guid>https://bahrani.id/tags/google-apps-script/</guid>
       <description></description>
     </item>
     <item>
       <title>Google Drive</title>
-      <link>https://blog.bahrani.my.id/tags/google-drive/</link>
+      <link>https://bahrani.id/tags/google-drive/</link>
       <pubDate>Fri, 15 May 2026 17:20:44 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/google-drive/</guid>
+      <guid>https://bahrani.id/tags/google-drive/</guid>
       <description></description>
     </item>
     <item>
       <title>Tutorial</title>
-      <link>https://blog.bahrani.my.id/tags/tutorial/</link>
+      <link>https://bahrani.id/tags/tutorial/</link>
       <pubDate>Fri, 15 May 2026 17:20:44 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/tutorial/</guid>
+      <guid>https://bahrani.id/tags/tutorial/</guid>
       <description></description>
     </item>
     <item>
       <title>Web App</title>
-      <link>https://blog.bahrani.my.id/tags/web-app/</link>
+      <link>https://bahrani.id/tags/web-app/</link>
       <pubDate>Fri, 15 May 2026 17:20:44 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/web-app/</guid>
+      <guid>https://bahrani.id/tags/web-app/</guid>
       <description></description>
     </item>
     <item>
       <title>CI/CD</title>
-      <link>https://blog.bahrani.my.id/tags/ci/cd/</link>
+      <link>https://bahrani.id/tags/ci/cd/</link>
       <pubDate>Sun, 26 Apr 2026 23:22:21 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/ci/cd/</guid>
+      <guid>https://bahrani.id/tags/ci/cd/</guid>
       <description></description>
     </item>
     <item>
-      <title>Devops</title>
-      <link>https://blog.bahrani.my.id/tags/devops/</link>
+      <title>DevOps</title>
+      <link>https://bahrani.id/tags/devops/</link>
       <pubDate>Sun, 26 Apr 2026 23:22:21 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/devops/</guid>
+      <guid>https://bahrani.id/tags/devops/</guid>
       <description></description>
     </item>
     <item>
       <title>GitLab Runner</title>
-      <link>https://blog.bahrani.my.id/tags/gitlab-runner/</link>
+      <link>https://bahrani.id/tags/gitlab-runner/</link>
       <pubDate>Sun, 26 Apr 2026 23:22:21 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/gitlab-runner/</guid>
+      <guid>https://bahrani.id/tags/gitlab-runner/</guid>
       <description></description>
     </item>
     <item>
       <title>Self-Hosted Runner</title>
-      <link>https://blog.bahrani.my.id/tags/self-hosted-runner/</link>
+      <link>https://bahrani.id/tags/self-hosted-runner/</link>
       <pubDate>Sun, 26 Apr 2026 23:22:21 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/self-hosted-runner/</guid>
+      <guid>https://bahrani.id/tags/self-hosted-runner/</guid>
       <description></description>
     </item>
     <item>
       <title>Cloudflare</title>
-      <link>https://blog.bahrani.my.id/tags/cloudflare/</link>
+      <link>https://bahrani.id/tags/cloudflare/</link>
       <pubDate>Thu, 23 Apr 2026 02:06:37 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/cloudflare/</guid>
+      <guid>https://bahrani.id/tags/cloudflare/</guid>
       <description></description>
     </item>
     <item>
       <title>Server</title>
-      <link>https://blog.bahrani.my.id/tags/server/</link>
+      <link>https://bahrani.id/tags/server/</link>
       <pubDate>Thu, 23 Apr 2026 02:06:37 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/server/</guid>
+      <guid>https://bahrani.id/tags/server/</guid>
       <description></description>
     </item>
     <item>
-      <title>SSH</title>
-      <link>https://blog.bahrani.my.id/tags/ssh/</link>
+      <title>Ssh</title>
+      <link>https://bahrani.id/tags/ssh/</link>
       <pubDate>Thu, 23 Apr 2026 02:06:37 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/ssh/</guid>
+      <guid>https://bahrani.id/tags/ssh/</guid>
       <description></description>
     </item>
     <item>
       <title>Tunnel</title>
-      <link>https://blog.bahrani.my.id/tags/tunnel/</link>
+      <link>https://bahrani.id/tags/tunnel/</link>
       <pubDate>Thu, 23 Apr 2026 02:06:37 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/tunnel/</guid>
+      <guid>https://bahrani.id/tags/tunnel/</guid>
       <description></description>
     </item>
     <item>
       <title>Zero Trust</title>
-      <link>https://blog.bahrani.my.id/tags/zero-trust/</link>
+      <link>https://bahrani.id/tags/zero-trust/</link>
       <pubDate>Thu, 23 Apr 2026 02:06:37 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/zero-trust/</guid>
+      <guid>https://bahrani.id/tags/zero-trust/</guid>
       <description></description>
     </item>
     <item>
       <title>Domain</title>
-      <link>https://blog.bahrani.my.id/tags/domain/</link>
+      <link>https://bahrani.id/tags/domain/</link>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/domain/</guid>
+      <guid>https://bahrani.id/tags/domain/</guid>
       <description></description>
     </item>
     <item>
       <title>Automation</title>
-      <link>https://blog.bahrani.my.id/tags/automation/</link>
+      <link>https://bahrani.id/tags/automation/</link>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/automation/</guid>
+      <guid>https://bahrani.id/tags/automation/</guid>
       <description></description>
     </item>
     <item>
       <title>Dashboard</title>
-      <link>https://blog.bahrani.my.id/tags/dashboard/</link>
+      <link>https://bahrani.id/tags/dashboard/</link>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/dashboard/</guid>
+      <guid>https://bahrani.id/tags/dashboard/</guid>
       <description></description>
     </item>
     <item>
       <title>Network</title>
-      <link>https://blog.bahrani.my.id/tags/network/</link>
+      <link>https://bahrani.id/tags/network/</link>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/network/</guid>
+      <guid>https://bahrani.id/tags/network/</guid>
       <description></description>
     </item>
     <item>
       <title>Hidup</title>
-      <link>https://blog.bahrani.my.id/tags/hidup/</link>
+      <link>https://bahrani.id/tags/hidup/</link>
       <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/hidup/</guid>
+      <guid>https://bahrani.id/tags/hidup/</guid>
       <description></description>
     </item>
     <item>
       <title>Pengalaman</title>
-      <link>https://blog.bahrani.my.id/tags/pengalaman/</link>
+      <link>https://bahrani.id/tags/pengalaman/</link>
       <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/pengalaman/</guid>
+      <guid>https://bahrani.id/tags/pengalaman/</guid>
       <description></description>
     </item>
     <item>
       <title>Git</title>
-      <link>https://blog.bahrani.my.id/tags/git/</link>
+      <link>https://bahrani.id/tags/git/</link>
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/git/</guid>
+      <guid>https://bahrani.id/tags/git/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>https://blog.bahrani.my.id/tags/python/</link>
+      <link>https://bahrani.id/tags/python/</link>
       <pubDate>Tue, 07 Oct 2025 12:00:00 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/python/</guid>
+      <guid>https://bahrani.id/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Streamlit</title>
-      <link>https://blog.bahrani.my.id/tags/streamlit/</link>
+      <link>https://bahrani.id/tags/streamlit/</link>
       <pubDate>Tue, 07 Oct 2025 12:00:00 +0700</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/streamlit/</guid>
+      <guid>https://bahrani.id/tags/streamlit/</guid>
       <description></description>
     </item>
     <item>
       <title>Container</title>
-      <link>https://blog.bahrani.my.id/tags/container/</link>
+      <link>https://bahrani.id/tags/container/</link>
       <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/container/</guid>
+      <guid>https://bahrani.id/tags/container/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker</title>
-      <link>https://blog.bahrani.my.id/tags/docker/</link>
+      <link>https://bahrani.id/tags/docker/</link>
       <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.bahrani.my.id/tags/docker/</guid>
+      <guid>https://bahrani.id/tags/docker/</guid>
       <description></description>
     </item>
   </channel>
