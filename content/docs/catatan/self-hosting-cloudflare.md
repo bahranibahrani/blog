@@ -9,7 +9,7 @@ UseHugoToc: true
 tags:
   - "Cloudflare"
   - "Tutorial"
-#![Image](https://blog.bahrani.my.id/img/1.png)
+#![Image](https://bahrani.id/img/1.png)
 #![Image](/static/img/1.png)
 #![Image](https://www.greenheirloom.in/cdn/shop/products/Bharani2_1024x1024@2x.jpg?v=1608273224)
 

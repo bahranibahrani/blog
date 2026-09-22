@@ -4,7 +4,7 @@ outputs:
     - RSS
     - JSON # necessary for search
 
-baseURL: "https://blog.bahrani.my.id/"
+baseURL: "https://bahrani.id/"
 languageCode: id-id
 title: Bahrani Blog
 theme: PaperMod

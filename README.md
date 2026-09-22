@@ -2,7 +2,7 @@
 
 Blog pribadi tentang **Networking**, **Network Automation**, dan **Teknologi**.
 
-🌐 **Live**: [blog.bahrani.my.id](https://blog.bahrani.my.id)
+🌐 **Live**: [bahrani.id](https://bahrani.id)
 
 ---
 
@@ -113,7 +113,7 @@ File utama: `config.yml`
 
 | Setting | Nilai |
 |---------|-------|
-| `baseURL` | `https://blog.bahrani.my.id/` |
+| `baseURL` | `https://bahrani.id/` |
 | `languageCode` | `id-id` |
 | `theme` | PaperMod |
 | `defaultTheme` | auto |
