@@ -70,6 +70,8 @@ params:
     imageHeight: 180
     imageTitle: Bahrani
     buttons:
+      - name: 📄 CV / Resume
+        url: /pdf/CV_Bahrani_Senior_Network_Engineer.pdf
       - name: 📝 Blog
         url: /docs/
  #     - name: 📝 Blog
