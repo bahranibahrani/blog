@@ -11,20 +11,76 @@
     </image>
     <generator>Hugo</generator>
     <language>id-id</language>
-    <lastBuildDate>Tue, 02 Jun 2026 19:13:53 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 20:12:38 +0700</lastBuildDate>
     <atom:link href="https://bahrani.id/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>NAT</title>
-      <link>https://bahrani.id/tags/nat/</link>
-      <pubDate>Tue, 02 Jun 2026 19:13:53 +0700</pubDate>
-      <guid>https://bahrani.id/tags/nat/</guid>
+      <title>Catalyst Center</title>
+      <link>https://bahrani.id/tags/catalyst-center/</link>
+      <pubDate>Wed, 23 Sep 2026 20:12:38 +0700</pubDate>
+      <guid>https://bahrani.id/tags/catalyst-center/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cisco</title>
+      <link>https://bahrani.id/tags/cisco/</link>
+      <pubDate>Wed, 23 Sep 2026 20:12:38 +0700</pubDate>
+      <guid>https://bahrani.id/tags/cisco/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cisco ISE</title>
+      <link>https://bahrani.id/tags/cisco-ise/</link>
+      <pubDate>Wed, 23 Sep 2026 20:12:38 +0700</pubDate>
+      <guid>https://bahrani.id/tags/cisco-ise/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Enterprise Networking</title>
+      <link>https://bahrani.id/tags/enterprise-networking/</link>
+      <pubDate>Wed, 23 Sep 2026 20:12:38 +0700</pubDate>
+      <guid>https://bahrani.id/tags/enterprise-networking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LISP</title>
+      <link>https://bahrani.id/tags/lisp/</link>
+      <pubDate>Wed, 23 Sep 2026 20:12:38 +0700</pubDate>
+      <guid>https://bahrani.id/tags/lisp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NetDevOps</title>
+      <link>https://bahrani.id/tags/netdevops/</link>
+      <pubDate>Wed, 23 Sep 2026 20:12:38 +0700</pubDate>
+      <guid>https://bahrani.id/tags/netdevops/</guid>
       <description></description>
     </item>
     <item>
       <title>Networking</title>
       <link>https://bahrani.id/tags/networking/</link>
-      <pubDate>Tue, 02 Jun 2026 19:13:53 +0700</pubDate>
+      <pubDate>Wed, 23 Sep 2026 20:12:38 +0700</pubDate>
       <guid>https://bahrani.id/tags/networking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SDA</title>
+      <link>https://bahrani.id/tags/sda/</link>
+      <pubDate>Wed, 23 Sep 2026 20:12:38 +0700</pubDate>
+      <guid>https://bahrani.id/tags/sda/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VXLAN</title>
+      <link>https://bahrani.id/tags/vxlan/</link>
+      <pubDate>Wed, 23 Sep 2026 20:12:38 +0700</pubDate>
+      <guid>https://bahrani.id/tags/vxlan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NAT</title>
+      <link>https://bahrani.id/tags/nat/</link>
+      <pubDate>Tue, 02 Jun 2026 19:13:53 +0700</pubDate>
+      <guid>https://bahrani.id/tags/nat/</guid>
       <description></description>
     </item>
     <item>
@@ -98,7 +154,7 @@
       <description></description>
     </item>
     <item>
-      <title>DevOps</title>
+      <title>Devops</title>
       <link>https://bahrani.id/tags/devops/</link>
       <pubDate>Sun, 26 Apr 2026 23:22:21 +0700</pubDate>
       <guid>https://bahrani.id/tags/devops/</guid>

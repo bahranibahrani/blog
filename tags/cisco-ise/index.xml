@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cisco ISE on Bahrani Blog</title>
+    <link>https://bahrani.id/tags/cisco-ise/</link>
+    <description>Recent content in Cisco ISE on Bahrani Blog</description>
+    <image>
+      <title>Bahrani Blog</title>
+      <url>https://bahrani.id/img/bahrani.jpg</url>
+      <link>https://bahrani.id/img/bahrani.jpg</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>id-id</language>
+    <lastBuildDate>Wed, 23 Sep 2026 20:12:38 +0700</lastBuildDate>
+    <atom:link href="https://bahrani.id/tags/cisco-ise/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Dive Arsitektur Cisco Software-Defined Access (SDA): LISP, VXLAN, dan ISE</title>
+      <link>https://bahrani.id/docs/catatan/cisco-sda-architecture-deep-dive/</link>
+      <pubDate>Wed, 23 Sep 2026 20:12:38 +0700</pubDate>
+      <guid>https://bahrani.id/docs/catatan/cisco-sda-architecture-deep-dive/</guid>
+      <description>Analisis teknis mendalam arsitektur Cisco Software-Defined Access (SDA), membedah pemisahan Control Plane LISP, Data Plane VXLAN, dan Policy Plane Cisco ISE SGT di lingkungan perbankan dan enterprise.</description>
+    </item>
+  </channel>
+</rss>

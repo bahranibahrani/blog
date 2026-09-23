@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo</generator>
     <language>id-id</language>
-    <lastBuildDate>Tue, 02 Jun 2026 19:13:53 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 20:12:38 +0700</lastBuildDate>
     <atom:link href="https://bahrani.id/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Dive Arsitektur Cisco Software-Defined Access (SDA): LISP, VXLAN, dan ISE</title>
+      <link>https://bahrani.id/docs/catatan/cisco-sda-architecture-deep-dive/</link>
+      <pubDate>Wed, 23 Sep 2026 20:12:38 +0700</pubDate>
+      <guid>https://bahrani.id/docs/catatan/cisco-sda-architecture-deep-dive/</guid>
+      <description>Analisis teknis mendalam arsitektur Cisco Software-Defined Access (SDA), membedah pemisahan Control Plane LISP, Data Plane VXLAN, dan Policy Plane Cisco ISE SGT di lingkungan perbankan dan enterprise.</description>
+    </item>
     <item>
       <title>Port Forwarding</title>
       <link>https://bahrani.id/docs/catatan/portforwarding/</link>
