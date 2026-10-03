@@ -20,6 +20,7 @@ minify:
   minifyOutput: true
 
 params:
+  env: "production"
   title: Bahrani Blog
   description: "Blog pribadi tentang Networking, Automation, dan Teknologi"
   keywords: [Blog, Portfolio, PaperMod, Networking, Automation]
