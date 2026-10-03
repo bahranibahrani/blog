@@ -11,8 +11,85 @@
     </image>
     <generator>Hugo</generator>
     <language>id-id</language>
-    <lastBuildDate>Wed, 23 Sep 2026 20:12:38 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 08:18:16 +0700</lastBuildDate>
     <atom:link href="https://bahrani.id/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Provenance</title>
+      <link>https://bahrani.id/tags/ai-provenance/</link>
+      <pubDate>Thu, 24 Sep 2026 08:18:16 +0700</pubDate>
+      <guid>https://bahrani.id/tags/ai-provenance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>C2PA</title>
+      <link>https://bahrani.id/tags/c2pa/</link>
+      <pubDate>Thu, 24 Sep 2026 08:18:16 +0700</pubDate>
+      <guid>https://bahrani.id/tags/c2pa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cryptography</title>
+      <link>https://bahrani.id/tags/cryptography/</link>
+      <pubDate>Thu, 24 Sep 2026 08:18:16 +0700</pubDate>
+      <guid>https://bahrani.id/tags/cryptography/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cyber Security</title>
+      <link>https://bahrani.id/tags/cyber-security/</link>
+      <pubDate>Thu, 24 Sep 2026 08:18:16 +0700</pubDate>
+      <guid>https://bahrani.id/tags/cyber-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Forensics</title>
+      <link>https://bahrani.id/tags/digital-forensics/</link>
+      <pubDate>Thu, 24 Sep 2026 08:18:16 +0700</pubDate>
+      <guid>https://bahrani.id/tags/digital-forensics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google</title>
+      <link>https://bahrani.id/tags/google/</link>
+      <pubDate>Thu, 24 Sep 2026 08:18:16 +0700</pubDate>
+      <guid>https://bahrani.id/tags/google/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenAI</title>
+      <link>https://bahrani.id/tags/openai/</link>
+      <pubDate>Thu, 24 Sep 2026 08:18:16 +0700</pubDate>
+      <guid>https://bahrani.id/tags/openai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pydantic</title>
+      <link>https://bahrani.id/tags/pydantic/</link>
+      <pubDate>Thu, 24 Sep 2026 08:18:16 +0700</pubDate>
+      <guid>https://bahrani.id/tags/pydantic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://bahrani.id/tags/python/</link>
+      <pubDate>Thu, 24 Sep 2026 08:18:16 +0700</pubDate>
+      <guid>https://bahrani.id/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SynthID</title>
+      <link>https://bahrani.id/tags/synthid/</link>
+      <pubDate>Thu, 24 Sep 2026 08:18:16 +0700</pubDate>
+      <guid>https://bahrani.id/tags/synthid/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WhatsApp</title>
+      <link>https://bahrani.id/tags/whatsapp/</link>
+      <pubDate>Thu, 24 Sep 2026 08:18:16 +0700</pubDate>
+      <guid>https://bahrani.id/tags/whatsapp/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Catalyst Center</title>
       <link>https://bahrani.id/tags/catalyst-center/</link>
@@ -154,7 +231,7 @@
       <description></description>
     </item>
     <item>
-      <title>Devops</title>
+      <title>DevOps</title>
       <link>https://bahrani.id/tags/devops/</link>
       <pubDate>Sun, 26 Apr 2026 23:22:21 +0700</pubDate>
       <guid>https://bahrani.id/tags/devops/</guid>
@@ -189,7 +266,7 @@
       <description></description>
     </item>
     <item>
-      <title>Ssh</title>
+      <title>SSH</title>
       <link>https://bahrani.id/tags/ssh/</link>
       <pubDate>Thu, 23 Apr 2026 02:06:37 +0700</pubDate>
       <guid>https://bahrani.id/tags/ssh/</guid>
@@ -256,13 +333,6 @@
       <link>https://bahrani.id/tags/git/</link>
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://bahrani.id/tags/git/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>https://bahrani.id/tags/python/</link>
-      <pubDate>Tue, 07 Oct 2025 12:00:00 +0700</pubDate>
-      <guid>https://bahrani.id/tags/python/</guid>
       <description></description>
     </item>
     <item>

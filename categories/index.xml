@@ -11,8 +11,22 @@
     </image>
     <generator>Hugo</generator>
     <language>id-id</language>
-    <lastBuildDate>Wed, 23 Sep 2026 20:12:38 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 08:18:16 +0700</lastBuildDate>
     <atom:link href="https://bahrani.id/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyber Security</title>
+      <link>https://bahrani.id/categories/cyber-security/</link>
+      <pubDate>Thu, 24 Sep 2026 08:18:16 +0700</pubDate>
+      <guid>https://bahrani.id/categories/cyber-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Forensics &amp; AI</title>
+      <link>https://bahrani.id/categories/digital-forensics--ai/</link>
+      <pubDate>Thu, 24 Sep 2026 08:18:16 +0700</pubDate>
+      <guid>https://bahrani.id/categories/digital-forensics--ai/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Catatan</title>
       <link>https://bahrani.id/categories/catatan/</link>

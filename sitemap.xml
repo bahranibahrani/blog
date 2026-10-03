@@ -2,16 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bahrani.id/tags/ai-provenance/</loc>
+    <lastmod>2026-09-24T08:18:16+07:00</lastmod>
+  </url><url>
     <loc>https://bahrani.id/</loc>
-    <lastmod>2026-09-23T20:12:38+07:00</lastmod>
+    <lastmod>2026-09-24T08:18:16+07:00</lastmod>
+  </url><url>
+    <loc>https://bahrani.id/tags/c2pa/</loc>
+    <lastmod>2026-09-24T08:18:16+07:00</lastmod>
+  </url><url>
+    <loc>https://bahrani.id/categories/</loc>
+    <lastmod>2026-09-24T08:18:16+07:00</lastmod>
+  </url><url>
+    <loc>https://bahrani.id/tags/cryptography/</loc>
+    <lastmod>2026-09-24T08:18:16+07:00</lastmod>
+  </url><url>
+    <loc>https://bahrani.id/categories/cyber-security/</loc>
+    <lastmod>2026-09-24T08:18:16+07:00</lastmod>
+  </url><url>
+    <loc>https://bahrani.id/tags/cyber-security/</loc>
+    <lastmod>2026-09-24T08:18:16+07:00</lastmod>
+  </url><url>
+    <loc>https://bahrani.id/tags/digital-forensics/</loc>
+    <lastmod>2026-09-24T08:18:16+07:00</lastmod>
+  </url><url>
+    <loc>https://bahrani.id/categories/digital-forensics--ai/</loc>
+    <lastmod>2026-09-24T08:18:16+07:00</lastmod>
+  </url><url>
+    <loc>https://bahrani.id/docs/</loc>
+    <lastmod>2026-09-24T08:18:16+07:00</lastmod>
+  </url><url>
+    <loc>https://bahrani.id/docs/catatan/c2pa-content-credentials-forensic-analysis/</loc>
+    <lastmod>2026-09-24T08:18:16+07:00</lastmod>
+  </url><url>
+    <loc>https://bahrani.id/tags/google/</loc>
+    <lastmod>2026-09-24T08:18:16+07:00</lastmod>
+  </url><url>
+    <loc>https://bahrani.id/tags/openai/</loc>
+    <lastmod>2026-09-24T08:18:16+07:00</lastmod>
+  </url><url>
+    <loc>https://bahrani.id/tags/pydantic/</loc>
+    <lastmod>2026-09-24T08:18:16+07:00</lastmod>
+  </url><url>
+    <loc>https://bahrani.id/tags/python/</loc>
+    <lastmod>2026-09-24T08:18:16+07:00</lastmod>
+  </url><url>
+    <loc>https://bahrani.id/tags/synthid/</loc>
+    <lastmod>2026-09-24T08:18:16+07:00</lastmod>
+  </url><url>
+    <loc>https://bahrani.id/tags/</loc>
+    <lastmod>2026-09-24T08:18:16+07:00</lastmod>
+  </url><url>
+    <loc>https://bahrani.id/tags/whatsapp/</loc>
+    <lastmod>2026-09-24T08:18:16+07:00</lastmod>
   </url><url>
     <loc>https://bahrani.id/tags/catalyst-center/</loc>
     <lastmod>2026-09-23T20:12:38+07:00</lastmod>
   </url><url>
     <loc>https://bahrani.id/categories/catatan/</loc>
-    <lastmod>2026-09-23T20:12:38+07:00</lastmod>
-  </url><url>
-    <loc>https://bahrani.id/categories/</loc>
     <lastmod>2026-09-23T20:12:38+07:00</lastmod>
   </url><url>
     <loc>https://bahrani.id/tags/cisco/</loc>
@@ -21,9 +69,6 @@
     <lastmod>2026-09-23T20:12:38+07:00</lastmod>
   </url><url>
     <loc>https://bahrani.id/docs/catatan/cisco-sda-architecture-deep-dive/</loc>
-    <lastmod>2026-09-23T20:12:38+07:00</lastmod>
-  </url><url>
-    <loc>https://bahrani.id/docs/</loc>
     <lastmod>2026-09-23T20:12:38+07:00</lastmod>
   </url><url>
     <loc>https://bahrani.id/categories/enterprise-networking/</loc>
@@ -45,9 +90,6 @@
     <lastmod>2026-09-23T20:12:38+07:00</lastmod>
   </url><url>
     <loc>https://bahrani.id/categories/sdn-architecture/</loc>
-    <lastmod>2026-09-23T20:12:38+07:00</lastmod>
-  </url><url>
-    <loc>https://bahrani.id/tags/</loc>
     <lastmod>2026-09-23T20:12:38+07:00</lastmod>
   </url><url>
     <loc>https://bahrani.id/tags/vxlan/</loc>
@@ -162,9 +204,6 @@
     <lastmod>2025-10-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bahrani.id/docs/catatan/proyek-visualisasi-jaringan-cdp/</loc>
-    <lastmod>2025-10-07T12:00:00+07:00</lastmod>
-  </url><url>
-    <loc>https://bahrani.id/tags/python/</loc>
     <lastmod>2025-10-07T12:00:00+07:00</lastmod>
   </url><url>
     <loc>https://bahrani.id/tags/streamlit/</loc>
