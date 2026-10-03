@@ -71,7 +71,7 @@ params:
     imageTitle: Bahrani
     buttons:
       - name: 📄 CV / Resume
-        url: /pdf/CV_Bahrani_Senior_Network_Engineer.pdf
+        url: /pdf/CV_BahraniENG.pdf
       - name: 📝 Blog
         url: /docs/
  #     - name: 📝 Blog
